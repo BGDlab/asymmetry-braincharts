@@ -1,0 +1,128 @@
+---
+title: "Out-of-sample prediction"
+output: html_document
+date: "2025-05-18"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+## Obtaining population curves
+
+The following code will load and plot the population median (50th centile) across the lifespan for a single region.
+
+
+```{r cars}
+library(ggplot2)
+library(dplyr)
+
+source('100.common-variables.r')
+source('101.common-functions.r')
+source('300.variables.r')
+source('301.functions.r')
+```
+
+For demonstrative purposes, we will plot the left bankssts. First, we will load in the fit. 
+
+```{r cars}
+region='lh.CT.bankssts'
+fit_file <- paste0("models-to-share/regional-models/FIT_", region, ".rds")
+FIT <- readRDS(fit_file)
+```
+
+To plot the curve, we will generate data to use for prediction.
+
+```{r cars}
+POP.CURVE.LIST <- list(AgeTransformed=seq(log(90),log(365*95),length.out=2^5),sex=c("Female","Male"))
+POP.CURVE.RAW <- do.call( what=expand.grid, args=POP.CURVE.LIST )
+CURVE <- Apply.Param(NEWData=POP.CURVE.RAW, FITParam=FIT$param  )
+```
+
+Plot the result
+
+```{r cars}
+CURVE %>% 
+  filter(sex=='Female') %>%
+  ggplot(aes(x=AgeTransformed,y=PRED.m500.pop*10000))+
+  geom_line()+
+  theme_minimal()
+```
+
+
+
+## Prepare the sample data
+
+This tutorial uses simulated data (as illustrated in the paper). 
+
+```{r cars}
+set.seed(42)  # for reproducibility
+
+# Simulate 100 subjects
+n_subjects <- 100
+sim_data <- data.frame(
+  age_days = runif(n_subjects, min = 20*365, max = 40*365),
+  sex = factor(sample(c("Male", "Female"), n_subjects, replace = TRUE)),
+  study_site='study-NEW',
+  dx='CN',
+  fs_version=factor('FS7_T1', levels=c('Custom','FS5.3','FS6_T1','FS6_T1+','FS7_T1','FS7_T1+','FSInfant','reconall-clinical'))
+)
+
+sim_data$AgeTransformed = log(sim_data$age_days)
+
+# Predict the expected value from the curve
+NEWSTUDY <- Apply.Param(NEWData=sim_data, FITParam=FIT$param)
+
+# Add random study-level effect (e.g., normal distribution, mean=0, sd=2)
+study_effect <- rnorm(1, mean = 0, sd = 0.00005)
+
+# Add subject-level noise (e.g., normal distribution, mean=0, sd=1)
+NEWSTUDY$subject_noise <- rnorm(n_subjects, mean = 0, sd =0.00005)
+
+# Final simulated measurement
+NEWSTUDY$PRED.m500.pop <- NEWSTUDY$PRED.m500.pop + study_effect + NEWSTUDY$subject_noise
+
+CURVE %>% 
+  filter(sex=='Female') %>%
+  ggplot(aes(x=AgeTransformed,y=PRED.m500.pop*10000))+
+  geom_point(data=NEWSTUDY,aes(x=AgeTransformed,y=PRED.m500.pop*10000,color=study_site))+
+  geom_line()+
+  theme_minimal()
+```
+
+## Out-of-sample estimation
+
+We will now estimate (random-effects) parameters for out-of-sample (i.e. novel) data. In our simulated example there are two additional studies, U and V, which were excluded from the initial fitting. This can be seen in the tabulation below.
+
+
+```{r pressure, echo=FALSE}
+#NOVEL <- list()
+#NOVEL$DATA <- readRDS(file=file.path("RDS/omega/DATA.rds"))
+#NOVEL$DATA <- NOVEL$DATA[ with(NOVEL$DATA, which(Study=="U" & INDEX.OB==1 & INDEX.TYPE=="CN") ), ]
+source('920.calc-novel-wo-subset-function.r')
+```
+
+
+Make sure to load in the model.
+
+```{r pressure, echo=FALSE}
+region='lh.CT.bankssts'
+fit_file <- paste0("models-to-share/regional-models/FIT_", region, ".rds")
+boot_file <- paste0("models-to-share/regional-models/BOOT_", region, ".rds")  
+FIT <- readRDS(file = fit_file)
+BOOT <- readRDS(file = boot_file)
+```
+
+Make sure your new dataframe has all required columns: `'AgeTransformed','sex','study_site','PRED.m500.pop','fs_version','dx','age_days'`. Then the out of sample prediction. 
+
+```{r pressure, echo=FALSE}
+OUTOFSAMPLE = NEWSTUDY[,c('AgeTransformed','sex','study_site','PRED.m500.pop','fs_version','dx','age_days')]
+colnames(OUTOFSAMPLE)[4] = region
+RESULT <- Calc.Novel(OUTOFSAMPLE, Fit = FIT, Apply = TRUE, NumberCores = 1)
+```
+
+
+
+
+
