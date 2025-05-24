@@ -97,9 +97,6 @@ We will now estimate (random-effects) parameters for out-of-sample (i.e. novel) 
 
 
 ```{r pressure, echo=FALSE}
-#NOVEL <- list()
-#NOVEL$DATA <- readRDS(file=file.path("RDS/omega/DATA.rds"))
-#NOVEL$DATA <- NOVEL$DATA[ with(NOVEL$DATA, which(Study=="U" & INDEX.OB==1 & INDEX.TYPE=="CN") ), ]
 source('920.calc-novel-wo-subset-function.r')
 ```
 
@@ -122,6 +119,15 @@ colnames(OUTOFSAMPLE)[4] = region
 RESULT <- Calc.Novel(OUTOFSAMPLE, Fit = FIT, Apply = TRUE, NumberCores = 1)
 ```
 
+
+```{r pressure, echo=TRUE}
+CURVE %>% 
+  filter(sex=='Female') %>%
+  ggplot(aes(x=AgeTransformed,y=PRED.m500.pop*10000))+
+  geom_line()+
+  geom_point(data=RESULT$data,aes(x=AgeTransformed,y=lh.CT.banksstsTransformed.normalised*10000,color=study_site))+
+  theme_minimal()
+```
 
 
 
