@@ -1,0 +1,1081 @@
+"label","phenotype","epoch","asym_adjusted.log"
+"lh_bankssts","SA","late fetal",0.00491071334859055
+"lh_caudalanteriorcingulate","SA","late fetal",-0.01267932427564
+"lh_caudalmiddlefrontal","SA","late fetal",0.00461031468481613
+"lh_cuneus","SA","late fetal",NA
+"lh_entorhinal","SA","late fetal",0.0050457454094682
+"lh_frontalpole","SA","late fetal",-0.0143693769727299
+"lh_fusiform","SA","late fetal",0.000475885314813255
+"lh_HEMI","SA","late fetal",NA
+"lh_inferiorparietal","SA","late fetal",-0.00679720248668412
+"lh_inferiortemporal","SA","late fetal",0.00126465878708454
+"lh_insula","SA","late fetal",-0.00181305682613283
+"lh_isthmuscingulate","SA","late fetal",0.00113486639447964
+"lh_lateraloccipital","SA","late fetal",0.00153899225154412
+"lh_lateralorbitofrontal","SA","late fetal",-0.00302839392668342
+"lh_lingual","SA","late fetal",-0.00199405631154248
+"lh_medialorbitofrontal","SA","late fetal",-0.00190273831801711
+"lh_middletemporal","SA","late fetal",-0.00632037035443543
+"lh_paracentral","SA","late fetal",-0.00434058811752926
+"lh_parahippocampal","SA","late fetal",-0.00235808287307492
+"lh_parsopercularis","SA","late fetal",0.0049570845797345
+"lh_parsorbitalis","SA","late fetal",-0.00615493302481864
+"lh_parstriangularis","SA","late fetal",-0.000268253417646282
+"lh_pericalcarine","SA","late fetal",-0.004743080937286
+"lh_postcentral","SA","late fetal",0.00362562542568872
+"lh_posteriorcingulate","SA","late fetal",0.00294808550868308
+"lh_precentral","SA","late fetal",0.000482405319276271
+"lh_precuneus","SA","late fetal",0.000554952913175397
+"lh_rostralanteriorcingulate","SA","late fetal",-0.00352566398340411
+"lh_rostralmiddlefrontal","SA","late fetal",0.000696917869836884
+"lh_superiorfrontal","SA","late fetal",0.0013958257661879
+"lh_superiorparietal","SA","late fetal",-0.00327853551942159
+"lh_superiortemporal","SA","late fetal",0.00180777762046349
+"lh_supramarginal","SA","late fetal",0.00405733696484556
+"lh_temporalpole","SA","late fetal",-0.00316255443027818
+"lh_transversetemporal","SA","late fetal",0.0113311070895398
+"lh_bankssts","SA","neonatal",0.00915244733656257
+"lh_caudalanteriorcingulate","SA","neonatal",-0.0187772477130402
+"lh_caudalmiddlefrontal","SA","neonatal",0.00546367579175326
+"lh_cuneus","SA","neonatal",-0.00538567932600329
+"lh_entorhinal","SA","neonatal",0.00704850172327145
+"lh_frontalpole","SA","neonatal",-0.0231688404782424
+"lh_fusiform","SA","neonatal",0.00332012309330284
+"lh_HEMI","SA","neonatal",-0.000194727182458584
+"lh_inferiorparietal","SA","neonatal",-0.0129808248271529
+"lh_inferiortemporal","SA","neonatal",0.00230155548454124
+"lh_insula","SA","neonatal",-0.00155353425676687
+"lh_isthmuscingulate","SA","neonatal",0.00389705949325978
+"lh_lateraloccipital","SA","neonatal",0.00166554730872508
+"lh_lateralorbitofrontal","SA","neonatal",-0.00369927661167402
+"lh_lingual","SA","neonatal",-0.00279228742074958
+"lh_medialorbitofrontal","SA","neonatal",-0.00347083248728152
+"lh_middletemporal","SA","neonatal",-0.0101362985800147
+"lh_paracentral","SA","neonatal",-0.00817824206475193
+"lh_parahippocampal","SA","neonatal",-0.000114317295966329
+"lh_parsopercularis","SA","neonatal",0.0104634071999451
+"lh_parsorbitalis","SA","neonatal",-0.0119586721500418
+"lh_parstriangularis","SA","neonatal",-0.00530829965888351
+"lh_pericalcarine","SA","neonatal",-0.00720584267474422
+"lh_postcentral","SA","neonatal",0.00553576254117451
+"lh_posteriorcingulate","SA","neonatal",0.00351347738963166
+"lh_precentral","SA","neonatal",0.000784410320073008
+"lh_precuneus","SA","neonatal",-0.00135256850280747
+"lh_rostralanteriorcingulate","SA","neonatal",0.00515829034928901
+"lh_rostralmiddlefrontal","SA","neonatal",-5.84591443161232e-05
+"lh_superiorfrontal","SA","neonatal",0.00266921263577463
+"lh_superiorparietal","SA","neonatal",-0.00159145932606486
+"lh_superiortemporal","SA","neonatal",0.00459945875716783
+"lh_supramarginal","SA","neonatal",0.00833531568367079
+"lh_temporalpole","SA","neonatal",-0.00367102533278808
+"lh_transversetemporal","SA","neonatal",0.0206574738965021
+"lh_bankssts","SA","late infancy",0.00599188964600809
+"lh_caudalanteriorcingulate","SA","late infancy",-0.00981687056059883
+"lh_caudalmiddlefrontal","SA","late infancy",0.00257791247439652
+"lh_cuneus","SA","late infancy",-0.00373777947664861
+"lh_entorhinal","SA","late infancy",0.00367109128807302
+"lh_frontalpole","SA","late infancy",-0.0132732827562147
+"lh_fusiform","SA","late infancy",0.00278255092966376
+"lh_HEMI","SA","late infancy",-5.20339594499912e-05
+"lh_inferiorparietal","SA","late infancy",-0.00869035449144284
+"lh_inferiortemporal","SA","late infancy",0.00155208341174737
+"lh_insula","SA","late infancy",-1.80956116097695e-05
+"lh_isthmuscingulate","SA","late infancy",0.00350107519513381
+"lh_lateraloccipital","SA","late infancy",0.000437780510909556
+"lh_lateralorbitofrontal","SA","late infancy",-0.0013140067778661
+"lh_lingual","SA","late infancy",-0.00145039332971988
+"lh_medialorbitofrontal","SA","late infancy",-0.0022127329238239
+"lh_middletemporal","SA","late infancy",-0.00580496769241079
+"lh_paracentral","SA","late infancy",-0.00542366668334964
+"lh_parahippocampal","SA","late infancy",0.00159922018214389
+"lh_parsopercularis","SA","late infancy",0.00751121752876843
+"lh_parsorbitalis","SA","late infancy",-0.00815668680713877
+"lh_parstriangularis","SA","late infancy",-0.00542680042066471
+"lh_pericalcarine","SA","late infancy",-0.00411531541510042
+"lh_postcentral","SA","late infancy",0.00296190840846849
+"lh_posteriorcingulate","SA","late infancy",0.00122872814935379
+"lh_precentral","SA","late infancy",0.00044947316425988
+"lh_precuneus","SA","late infancy",-0.00175888303682239
+"lh_rostralanteriorcingulate","SA","late infancy",0.00895601119033439
+"lh_rostralmiddlefrontal","SA","late infancy",-0.000686496139461224
+"lh_superiorfrontal","SA","late infancy",0.00179707642605495
+"lh_superiorparietal","SA","late infancy",0.000548080676216795
+"lh_superiortemporal","SA","late infancy",0.00358689329649885
+"lh_supramarginal","SA","late infancy",0.00586956750829297
+"lh_temporalpole","SA","late infancy",-0.00115241219047028
+"lh_transversetemporal","SA","late infancy",0.0134039886603957
+"lh_bankssts","SA","early childhood",0.0166705448104182
+"lh_caudalanteriorcingulate","SA","early childhood",-0.0208037729749117
+"lh_caudalmiddlefrontal","SA","early childhood",0.006824731343259
+"lh_cuneus","SA","early childhood",-0.0098696981912683
+"lh_entorhinal","SA","early childhood",0.00978314010393181
+"lh_frontalpole","SA","early childhood",-0.0309132039444337
+"lh_fusiform","SA","early childhood",0.00667041005650722
+"lh_HEMI","SA","early childhood",0.000111494091099208
+"lh_inferiorparietal","SA","early childhood",-0.0251220678617618
+"lh_inferiortemporal","SA","early childhood",0.00495780218822752
+"lh_insula","SA","early childhood",0.00288081445769979
+"lh_isthmuscingulate","SA","early childhood",0.0125284532361202
+"lh_lateraloccipital","SA","early childhood",-0.000651560415704487
+"lh_lateralorbitofrontal","SA","early childhood",0.000135800094701797
+"lh_lingual","SA","early childhood",-0.00394037074365873
+"lh_medialorbitofrontal","SA","early childhood",-0.0057283146917012
+"lh_middletemporal","SA","early childhood",-0.0135818419482445
+"lh_paracentral","SA","early childhood",-0.0155864318391137
+"lh_parahippocampal","SA","early childhood",0.00723705795225387
+"lh_parsopercularis","SA","early childhood",0.0231922367211627
+"lh_parsorbitalis","SA","early childhood",-0.0243751617316281
+"lh_parstriangularis","SA","early childhood",-0.0191392656531267
+"lh_pericalcarine","SA","early childhood",-0.0117628291683021
+"lh_postcentral","SA","early childhood",0.0063140165510176
+"lh_posteriorcingulate","SA","early childhood",-0.000316887667705869
+"lh_precentral","SA","early childhood",0.00100101958725162
+"lh_precuneus","SA","early childhood",-0.00617808509654429
+"lh_rostralanteriorcingulate","SA","early childhood",0.039071780352138
+"lh_rostralmiddlefrontal","SA","early childhood",-0.00371826004541035
+"lh_superiorfrontal","SA","early childhood",0.00531496955749792
+"lh_superiorparietal","SA","early childhood",0.00330564674007262
+"lh_superiortemporal","SA","early childhood",0.0115093071617755
+"lh_supramarginal","SA","early childhood",0.0175936639175305
+"lh_temporalpole","SA","early childhood",0.00154034835741362
+"lh_transversetemporal","SA","early childhood",0.0385771325645415
+"lh_bankssts","SA","middle and late childhood",0.00751722159214645
+"lh_caudalanteriorcingulate","SA","middle and late childhood",-0.00874661326633331
+"lh_caudalmiddlefrontal","SA","middle and late childhood",0.00374304307554435
+"lh_cuneus","SA","middle and late childhood",-0.004209979765942
+"lh_entorhinal","SA","middle and late childhood",0.00567606993515517
+"lh_frontalpole","SA","middle and late childhood",-0.0126201331162681
+"lh_fusiform","SA","middle and late childhood",0.0019066565686456
+"lh_HEMI","SA","middle and late childhood",5.66942261033731e-05
+"lh_inferiorparietal","SA","middle and late childhood",-0.0118126646763779
+"lh_inferiortemporal","SA","middle and late childhood",0.00258147261433939
+"lh_insula","SA","middle and late childhood",0.00160507567780951
+"lh_isthmuscingulate","SA","middle and late childhood",0.00614455637462127
+"lh_lateraloccipital","SA","middle and late childhood",-0.000467466730263309
+"lh_lateralorbitofrontal","SA","middle and late childhood",0.000918450818976637
+"lh_lingual","SA","middle and late childhood",-0.00242460882714708
+"lh_medialorbitofrontal","SA","middle and late childhood",-0.00228879998721873
+"lh_middletemporal","SA","middle and late childhood",-0.00552087545053925
+"lh_paracentral","SA","middle and late childhood",-0.00736733380519597
+"lh_parahippocampal","SA","middle and late childhood",0.00326880844076495
+"lh_parsopercularis","SA","middle and late childhood",0.0111107068996515
+"lh_parsorbitalis","SA","middle and late childhood",-0.0117637705351185
+"lh_parstriangularis","SA","middle and late childhood",-0.00931240951399539
+"lh_pericalcarine","SA","middle and late childhood",-0.00651960912036697
+"lh_postcentral","SA","middle and late childhood",0.00261023556489644
+"lh_posteriorcingulate","SA","middle and late childhood",-0.0012154037991492
+"lh_precentral","SA","middle and late childhood",0.000358292925218391
+"lh_precuneus","SA","middle and late childhood",-0.0028367070395668
+"lh_rostralanteriorcingulate","SA","middle and late childhood",0.0199824592637218
+"lh_rostralmiddlefrontal","SA","middle and late childhood",-0.00207837097378545
+"lh_superiorfrontal","SA","middle and late childhood",0.00259162864121647
+"lh_superiorparietal","SA","middle and late childhood",0.00114582724926023
+"lh_superiortemporal","SA","middle and late childhood",0.00549709096226595
+"lh_supramarginal","SA","middle and late childhood",0.00812056860687785
+"lh_temporalpole","SA","middle and late childhood",0.00222282588051119
+"lh_transversetemporal","SA","middle and late childhood",0.018931857429587
+"lh_bankssts","SA","adolescence",0.00545014628885042
+"lh_caudalanteriorcingulate","SA","adolescence",-0.00674321809424159
+"lh_caudalmiddlefrontal","SA","adolescence",0.00297887645291951
+"lh_cuneus","SA","adolescence",-0.0030044815641436
+"lh_entorhinal","SA","adolescence",0.00483469531048843
+"lh_frontalpole","SA","adolescence",-0.00927447937717785
+"lh_fusiform","SA","adolescence",0.00104556049194852
+"lh_HEMI","SA","adolescence",-2.73823342570098e-06
+"lh_inferiorparietal","SA","adolescence",-0.00877017344104009
+"lh_inferiortemporal","SA","adolescence",0.00194546482356672
+"lh_insula","SA","adolescence",0.00092029792901924
+"lh_isthmuscingulate","SA","adolescence",0.00447396231761697
+"lh_lateraloccipital","SA","adolescence",-0.00018165338832253
+"lh_lateralorbitofrontal","SA","adolescence",0.00065201394808547
+"lh_lingual","SA","adolescence",-0.00214917897702254
+"lh_medialorbitofrontal","SA","adolescence",-0.00150454352873853
+"lh_middletemporal","SA","adolescence",-0.00399721541473506
+"lh_paracentral","SA","adolescence",-0.00551828961926245
+"lh_parahippocampal","SA","adolescence",0.00216646267805281
+"lh_parsopercularis","SA","adolescence",0.008124654040816
+"lh_parsorbitalis","SA","adolescence",-0.00876753837721785
+"lh_parstriangularis","SA","adolescence",-0.00685806861616202
+"lh_pericalcarine","SA","adolescence",-0.00529670315600066
+"lh_postcentral","SA","adolescence",0.00199285775460336
+"lh_posteriorcingulate","SA","adolescence",-0.00100155564322107
+"lh_precentral","SA","adolescence",0.000233683032418419
+"lh_precuneus","SA","adolescence",-0.00205858329494339
+"lh_rostralanteriorcingulate","SA","adolescence",0.0145808011378077
+"lh_rostralmiddlefrontal","SA","adolescence",-0.00153483877173044
+"lh_superiorfrontal","SA","adolescence",0.00197261926877234
+"lh_superiorparietal","SA","adolescence",0.000609570658844258
+"lh_superiortemporal","SA","adolescence",0.00399362294567187
+"lh_supramarginal","SA","adolescence",0.00577677895509574
+"lh_temporalpole","SA","adolescence",0.0018438963427775
+"lh_transversetemporal","SA","adolescence",0.0145374183606651
+"lh_bankssts","SA","young adulthood",0.00665012530649363
+"lh_caudalanteriorcingulate","SA","young adulthood",-0.00870315705470951
+"lh_caudalmiddlefrontal","SA","young adulthood",0.00382070615015123
+"lh_cuneus","SA","young adulthood",-0.00368807084076288
+"lh_entorhinal","SA","young adulthood",0.00656403991610337
+"lh_frontalpole","SA","young adulthood",-0.0120003716911264
+"lh_fusiform","SA","young adulthood",0.00107284005298827
+"lh_HEMI","SA","young adulthood",-8.38446983982391e-05
+"lh_inferiorparietal","SA","young adulthood",-0.0109795334454554
+"lh_inferiortemporal","SA","young adulthood",0.00234205176394384
+"lh_insula","SA","young adulthood",0.00076786122723965
+"lh_isthmuscingulate","SA","young adulthood",0.00565481779649303
+"lh_lateraloccipital","SA","young adulthood",-2.14207970260248e-05
+"lh_lateralorbitofrontal","SA","young adulthood",0.000683969319036818
+"lh_lingual","SA","young adulthood",-0.00304957099284025
+"lh_medialorbitofrontal","SA","young adulthood",-0.00160254156238435
+"lh_middletemporal","SA","young adulthood",-0.00503891937178348
+"lh_paracentral","SA","young adulthood",-0.00699749362113235
+"lh_parahippocampal","SA","young adulthood",0.00239538604759626
+"lh_parsopercularis","SA","young adulthood",0.0098468178236633
+"lh_parsorbitalis","SA","young adulthood",-0.0109002040579476
+"lh_parstriangularis","SA","young adulthood",-0.00855315279472304
+"lh_pericalcarine","SA","young adulthood",-0.00688659943442826
+"lh_postcentral","SA","young adulthood",0.00251055147141416
+"lh_posteriorcingulate","SA","young adulthood",-0.0011270585798742
+"lh_precentral","SA","young adulthood",0.000259784890562468
+"lh_precuneus","SA","young adulthood",-0.0025998328782813
+"lh_rostralanteriorcingulate","SA","young adulthood",0.0182735767660829
+"lh_rostralmiddlefrontal","SA","young adulthood",-0.0018457937569649
+"lh_superiorfrontal","SA","young adulthood",0.00253987935480174
+"lh_superiorparietal","SA","young adulthood",0.000567150039350624
+"lh_superiortemporal","SA","young adulthood",0.00483512980167729
+"lh_supramarginal","SA","young adulthood",0.00675246538931845
+"lh_temporalpole","SA","young adulthood",0.00218849273641651
+"lh_transversetemporal","SA","young adulthood",0.0186360407505891
+"lh_bankssts","SA","middle adulthood",0.00228742980547954
+"lh_caudalanteriorcingulate","SA","middle adulthood",-0.00302365545777556
+"lh_caudalmiddlefrontal","SA","middle adulthood",0.00132897059692012
+"lh_cuneus","SA","middle adulthood",-0.00129364200015298
+"lh_entorhinal","SA","middle adulthood",0.00232986685751401
+"lh_frontalpole","SA","middle adulthood",-0.00441354068457359
+"lh_fusiform","SA","middle adulthood",0.000362581855556667
+"lh_HEMI","SA","middle adulthood",-5.20610832807425e-05
+"lh_inferiorparietal","SA","middle adulthood",-0.00385596168226007
+"lh_inferiortemporal","SA","middle adulthood",0.000763456298196592
+"lh_insula","SA","middle adulthood",0.000212697402414144
+"lh_isthmuscingulate","SA","middle adulthood",0.002088771202494
+"lh_lateraloccipital","SA","middle adulthood",8.74075110253872e-06
+"lh_lateralorbitofrontal","SA","middle adulthood",0.000231322991612901
+"lh_lingual","SA","middle adulthood",-0.00112498971052866
+"lh_medialorbitofrontal","SA","middle adulthood",-0.000480372827703402
+"lh_middletemporal","SA","middle adulthood",-0.00180723042441325
+"lh_paracentral","SA","middle adulthood",-0.00248666145158168
+"lh_parahippocampal","SA","middle adulthood",0.00076940668995155
+"lh_parsopercularis","SA","middle adulthood",0.00333931734546153
+"lh_parsorbitalis","SA","middle adulthood",-0.00377908182871684
+"lh_parstriangularis","SA","middle adulthood",-0.00301265571003965
+"lh_pericalcarine","SA","middle adulthood",-0.00237618965017348
+"lh_postcentral","SA","middle adulthood",0.00083382787086641
+"lh_posteriorcingulate","SA","middle adulthood",-0.000314580906463101
+"lh_precentral","SA","middle adulthood",8.38554185635774e-05
+"lh_precuneus","SA","middle adulthood",-0.000939330588502395
+"lh_rostralanteriorcingulate","SA","middle adulthood",0.00663547021574175
+"lh_rostralmiddlefrontal","SA","middle adulthood",-0.000619683192375346
+"lh_superiorfrontal","SA","middle adulthood",0.000912401774880839
+"lh_superiorparietal","SA","middle adulthood",0.000173408330810878
+"lh_superiortemporal","SA","middle adulthood",0.00164771979878413
+"lh_supramarginal","SA","middle adulthood",0.00221282040170825
+"lh_temporalpole","SA","middle adulthood",0.000660945216157076
+"lh_transversetemporal","SA","middle adulthood",0.006571570479965
+"lh_bankssts","SA","late adulthood",0.0078763829298391
+"lh_caudalanteriorcingulate","SA","late adulthood",-0.00990102124268694
+"lh_caudalmiddlefrontal","SA","late adulthood",0.00451004622250382
+"lh_cuneus","SA","late adulthood",-0.00459062169616073
+"lh_entorhinal","SA","late adulthood",0.00771686927881727
+"lh_frontalpole","SA","late adulthood",-0.0162651274132803
+"lh_fusiform","SA","late adulthood",0.00137050964220287
+"lh_HEMI","SA","late adulthood",-0.000231673319407888
+"lh_inferiorparietal","SA","late adulthood",-0.0135067734543615
+"lh_inferiortemporal","SA","late adulthood",0.00238880221713418
+"lh_insula","SA","late adulthood",0.000933630042666984
+"lh_isthmuscingulate","SA","late adulthood",0.008056937527896
+"lh_lateraloccipital","SA","late adulthood",-0.000186020895112825
+"lh_lateralorbitofrontal","SA","late adulthood",0.00104073864108531
+"lh_lingual","SA","late adulthood",-0.00388314356794726
+"lh_medialorbitofrontal","SA","late adulthood",-0.00143700031139554
+"lh_middletemporal","SA","late adulthood",-0.006507318421158
+"lh_paracentral","SA","late adulthood",-0.00880485978149004
+"lh_parahippocampal","SA","late adulthood",0.00255155219058975
+"lh_parsopercularis","SA","late adulthood",0.0112831837477058
+"lh_parsorbitalis","SA","late adulthood",-0.0130054523221786
+"lh_parstriangularis","SA","late adulthood",-0.0106409300186549
+"lh_pericalcarine","SA","late adulthood",-0.00774297978643011
+"lh_postcentral","SA","late adulthood",0.00248070626887362
+"lh_posteriorcingulate","SA","late adulthood",-0.000748325647773047
+"lh_precentral","SA","late adulthood",0.00027729975240156
+"lh_precuneus","SA","late adulthood",-0.00342251942224906
+"lh_rostralanteriorcingulate","SA","late adulthood",0.0249743984009858
+"lh_rostralmiddlefrontal","SA","late adulthood",-0.00207906237690142
+"lh_superiorfrontal","SA","late adulthood",0.00325544317588731
+"lh_superiorparietal","SA","late adulthood",0.000611968322680962
+"lh_superiortemporal","SA","late adulthood",0.00562603539694506
+"lh_supramarginal","SA","late adulthood",0.00723729123260553
+"lh_temporalpole","SA","late adulthood",0.00178642981343783
+"lh_transversetemporal","SA","late adulthood",0.0226193415546475
+"lh_bankssts","GM","late fetal",0.00679886189736894
+"lh_caudalanteriorcingulate","GM","late fetal",0.00426967105558562
+"lh_caudalmiddlefrontal","GM","late fetal",0.00469611851551399
+"lh_cuneus","GM","late fetal",NA
+"lh_entorhinal","GM","late fetal",-0.00826068073767633
+"lh_frontalpole","GM","late fetal",-0.00616185122125982
+"lh_fusiform","GM","late fetal",0.00312650308925885
+"lh_HEMI","GM","late fetal",NA
+"lh_inferiorparietal","GM","late fetal",-0.0066785267963686
+"lh_inferiortemporal","GM","late fetal",-0.00314212587900603
+"lh_insula","GM","late fetal",-0.00511785777258153
+"lh_isthmuscingulate","GM","late fetal",0.0102721045199006
+"lh_lateraloccipital","GM","late fetal",-0.00138248592014808
+"lh_lateralorbitofrontal","GM","late fetal",-0.001558481041319
+"lh_lingual","GM","late fetal",0.00176208769875924
+"lh_medialorbitofrontal","GM","late fetal",-0.00267969058885055
+"lh_middletemporal","GM","late fetal",-0.000339513644491826
+"lh_paracentral","GM","late fetal",-0.0100802109798692
+"lh_parahippocampal","GM","late fetal",0.0106385060949306
+"lh_parsopercularis","GM","late fetal",0.00881749429207793
+"lh_parsorbitalis","GM","late fetal",-0.0138214578385592
+"lh_parstriangularis","GM","late fetal",-0.00511139792401255
+"lh_pericalcarine","GM","late fetal",-0.00275197506394002
+"lh_postcentral","GM","late fetal",0.00322898678120098
+"lh_posteriorcingulate","GM","late fetal",0.00743868187526937
+"lh_precentral","GM","late fetal",0.00230233702817007
+"lh_precuneus","GM","late fetal",0.00170921050174782
+"lh_rostralanteriorcingulate","GM","late fetal",0.0150312641025451
+"lh_rostralmiddlefrontal","GM","late fetal",-0.00166372886438812
+"lh_superiorfrontal","GM","late fetal",0.00137404386005054
+"lh_superiorparietal","GM","late fetal",0.000556907097793597
+"lh_superiortemporal","GM","late fetal",0.00476069379294571
+"lh_supramarginal","GM","late fetal",0.00262700662987779
+"lh_temporalpole","GM","late fetal",-0.0115422818236046
+"lh_transversetemporal","GM","late fetal",0.00501364489054005
+"lh_bankssts","GM","neonatal",0.0116410953039023
+"lh_caudalanteriorcingulate","GM","neonatal",0.000378396557665292
+"lh_caudalmiddlefrontal","GM","neonatal",0.00605494831451618
+"lh_cuneus","GM","neonatal",-0.000284485369956736
+"lh_entorhinal","GM","neonatal",-0.009880548294291
+"lh_frontalpole","GM","neonatal",-0.0115571968485233
+"lh_fusiform","GM","neonatal",0.00527912429717207
+"lh_HEMI","GM","neonatal",0.000421666255084594
+"lh_inferiorparietal","GM","neonatal",-0.0129924179785863
+"lh_inferiortemporal","GM","neonatal",-0.00500059614139204
+"lh_insula","GM","neonatal",-0.00650635516841358
+"lh_isthmuscingulate","GM","neonatal",0.0145191718568289
+"lh_lateraloccipital","GM","neonatal",-0.00329991925745557
+"lh_lateralorbitofrontal","GM","neonatal",-0.000383050801177753
+"lh_lingual","GM","neonatal",0.0018452603046973
+"lh_medialorbitofrontal","GM","neonatal",-0.00480741484314993
+"lh_middletemporal","GM","neonatal",-0.00226007227998752
+"lh_paracentral","GM","neonatal",-0.0119476329795368
+"lh_parahippocampal","GM","neonatal",0.0151609467112552
+"lh_parsopercularis","GM","neonatal",0.011586783767936
+"lh_parsorbitalis","GM","neonatal",-0.0218909759692385
+"lh_parstriangularis","GM","neonatal",-0.00969942495817571
+"lh_pericalcarine","GM","neonatal",-0.00483060318617595
+"lh_postcentral","GM","neonatal",0.00534420279934136
+"lh_posteriorcingulate","GM","neonatal",0.00734480423460226
+"lh_precentral","GM","neonatal",0.0016337410830976
+"lh_precuneus","GM","neonatal",-0.000965955244610234
+"lh_rostralanteriorcingulate","GM","neonatal",0.0170292629737859
+"lh_rostralmiddlefrontal","GM","neonatal",-0.00275626333882001
+"lh_superiorfrontal","GM","neonatal",0.00277049834229697
+"lh_superiorparietal","GM","neonatal",0.000873819648676558
+"lh_superiortemporal","GM","neonatal",0.0055373952700578
+"lh_supramarginal","GM","neonatal",0.00626609651975518
+"lh_temporalpole","GM","neonatal",-0.0120979314252939
+"lh_transversetemporal","GM","neonatal",0.00990773942043247
+"lh_bankssts","GM","late infancy",0.00704085512630875
+"lh_caudalanteriorcingulate","GM","late infancy",-0.0033355235923281
+"lh_caudalmiddlefrontal","GM","late infancy",0.00300976861093881
+"lh_cuneus","GM","late infancy",-0.0011535571423764
+"lh_entorhinal","GM","late infancy",-0.00342492708876736
+"lh_frontalpole","GM","late infancy",-0.00772089491909039
+"lh_fusiform","GM","late infancy",0.00298622420190759
+"lh_HEMI","GM","late infancy",7.29716683855587e-05
+"lh_inferiorparietal","GM","late infancy",-0.0089044759998889
+"lh_inferiortemporal","GM","late infancy",-0.00241251873443657
+"lh_insula","GM","late infancy",-0.00263533777016437
+"lh_isthmuscingulate","GM","late infancy",0.00700026697619503
+"lh_lateraloccipital","GM","late infancy",-0.00247457732988168
+"lh_lateralorbitofrontal","GM","late infancy",0.00087691282497303
+"lh_lingual","GM","late infancy",0.000361692763967446
+"lh_medialorbitofrontal","GM","late infancy",-0.00302008209315749
+"lh_middletemporal","GM","late infancy",-0.00235185429057918
+"lh_paracentral","GM","late infancy",-0.00519250480099187
+"lh_parahippocampal","GM","late infancy",0.00734811284247052
+"lh_parsopercularis","GM","late infancy",0.00644755824493258
+"lh_parsorbitalis","GM","late infancy",-0.0123014204295483
+"lh_parstriangularis","GM","late infancy",-0.00648569635027217
+"lh_pericalcarine","GM","late infancy",-0.00299580744738467
+"lh_postcentral","GM","late infancy",0.00320108901812789
+"lh_posteriorcingulate","GM","late infancy",0.00230392432354964
+"lh_precentral","GM","late infancy",0.000269745078462641
+"lh_precuneus","GM","late infancy",-0.00195947489518465
+"lh_rostralanteriorcingulate","GM","late infancy",0.00836623982794511
+"lh_rostralmiddlefrontal","GM","late infancy",-0.0015363426835081
+"lh_superiorfrontal","GM","late infancy",0.00195441030731113
+"lh_superiorparietal","GM","late infancy",0.000440246439308876
+"lh_superiortemporal","GM","late infancy",0.00266246446668522
+"lh_supramarginal","GM","late infancy",0.00482746109365178
+"lh_temporalpole","GM","late infancy",-0.00379699063800089
+"lh_transversetemporal","GM","late infancy",0.00695883970269134
+"lh_bankssts","GM","early childhood",0.0172998503949669
+"lh_caudalanteriorcingulate","GM","early childhood",-0.0187946048688694
+"lh_caudalmiddlefrontal","GM","early childhood",0.00771290601484648
+"lh_cuneus","GM","early childhood",-0.00592167177630892
+"lh_entorhinal","GM","early childhood",0.00105632922364742
+"lh_frontalpole","GM","early childhood",-0.0223417955780312
+"lh_fusiform","GM","early childhood",0.00575907262207582
+"lh_HEMI","GM","early childhood",-5.92503632384679e-05
+"lh_inferiorparietal","GM","early childhood",-0.0270914756536478
+"lh_inferiortemporal","GM","early childhood",-0.00196455164902197
+"lh_insula","GM","early childhood",-0.00253142372436278
+"lh_isthmuscingulate","GM","early childhood",0.0106666055348423
+"lh_lateraloccipital","GM","early childhood",-0.00700790081980113
+"lh_lateralorbitofrontal","GM","early childhood",0.00523955592122154
+"lh_lingual","GM","early childhood",-0.00226916235347299
+"lh_medialorbitofrontal","GM","early childhood",-0.00770374796433797
+"lh_middletemporal","GM","early childhood",-0.00894677241435434
+"lh_paracentral","GM","early childhood",-0.0103481785754207
+"lh_parahippocampal","GM","early childhood",0.0116678001752355
+"lh_parsopercularis","GM","early childhood",0.0202818260342425
+"lh_parsorbitalis","GM","early childhood",-0.0285795635952931
+"lh_parstriangularis","GM","early childhood",-0.0189851532793289
+"lh_pericalcarine","GM","early childhood",-0.00787476063001793
+"lh_postcentral","GM","early childhood",0.00827414433197712
+"lh_posteriorcingulate","GM","early childhood",0.00263780187758336
+"lh_precentral","GM","early childhood",0.000801904649861943
+"lh_precuneus","GM","early childhood",-0.0062002105116597
+"lh_rostralanteriorcingulate","GM","early childhood",0.0267160515724059
+"lh_rostralmiddlefrontal","GM","early childhood",-0.0027246844927803
+"lh_superiorfrontal","GM","early childhood",0.00614556803344584
+"lh_superiorparietal","GM","early childhood",0.000466611306638891
+"lh_superiortemporal","GM","early childhood",0.00767160750824173
+"lh_supramarginal","GM","early childhood",0.0156861586066628
+"lh_temporalpole","GM","early childhood",-0.000697211691734
+"lh_transversetemporal","GM","early childhood",0.0223770137304509
+"lh_bankssts","GM","middle and late childhood",0.00693919083425008
+"lh_caudalanteriorcingulate","GM","middle and late childhood",-0.0103645449952299
+"lh_caudalmiddlefrontal","GM","middle and late childhood",0.00405105282040444
+"lh_cuneus","GM","middle and late childhood",-0.00271488570311391
+"lh_entorhinal","GM","middle and late childhood",0.00340742933915454
+"lh_frontalpole","GM","middle and late childhood",-0.010275877231067
+"lh_fusiform","GM","middle and late childhood",0.00156697825050284
+"lh_HEMI","GM","middle and late childhood",4.8980144957318e-05
+"lh_inferiorparietal","GM","middle and late childhood",-0.0133853469780837
+"lh_inferiortemporal","GM","middle and late childhood",0.00094624533148255
+"lh_insula","GM","middle and late childhood",-0.000482135940431126
+"lh_isthmuscingulate","GM","middle and late childhood",0.00216298807413393
+"lh_lateraloccipital","GM","middle and late childhood",-0.00250410212477967
+"lh_lateralorbitofrontal","GM","middle and late childhood",0.00285305875542728
+"lh_lingual","GM","middle and late childhood",-0.00212509284392383
+"lh_medialorbitofrontal","GM","middle and late childhood",-0.00310308653693779
+"lh_middletemporal","GM","middle and late childhood",-0.00424241267454008
+"lh_paracentral","GM","middle and late childhood",-0.0048371881264315
+"lh_parahippocampal","GM","middle and late childhood",0.00293974629941436
+"lh_parsopercularis","GM","middle and late childhood",0.0111505448561837
+"lh_parsorbitalis","GM","middle and late childhood",-0.0123207538259688
+"lh_parstriangularis","GM","middle and late childhood",-0.0091770276951954
+"lh_pericalcarine","GM","middle and late childhood",-0.00365200000492688
+"lh_postcentral","GM","middle and late childhood",0.00366333288842927
+"lh_posteriorcingulate","GM","middle and late childhood",0.00149123209499881
+"lh_precentral","GM","middle and late childhood",0.00102942068022837
+"lh_precuneus","GM","middle and late childhood",-0.00226534096243311
+"lh_rostralanteriorcingulate","GM","middle and late childhood",0.0157313498024268
+"lh_rostralmiddlefrontal","GM","middle and late childhood",-0.000495934752115705
+"lh_superiorfrontal","GM","middle and late childhood",0.00307541576044194
+"lh_superiorparietal","GM","middle and late childhood",-0.000132397985530168
+"lh_superiortemporal","GM","middle and late childhood",0.00431492672509112
+"lh_supramarginal","GM","middle and late childhood",0.00751111798804442
+"lh_temporalpole","GM","middle and late childhood",0.00148539161604077
+"lh_transversetemporal","GM","middle and late childhood",0.0117129599662266
+"lh_bankssts","GM","adolescence",0.00478976933188568
+"lh_caudalanteriorcingulate","GM","adolescence",-0.00759589581207415
+"lh_caudalmiddlefrontal","GM","adolescence",0.00320107236473811
+"lh_cuneus","GM","adolescence",-0.00165235066204205
+"lh_entorhinal","GM","adolescence",0.00278896542832626
+"lh_frontalpole","GM","adolescence",-0.00744538989950258
+"lh_fusiform","GM","adolescence",0.000917430822336473
+"lh_HEMI","GM","adolescence",6.40785839739637e-05
+"lh_inferiorparietal","GM","adolescence",-0.0100819846038702
+"lh_inferiortemporal","GM","adolescence",0.00107152498349229
+"lh_insula","GM","adolescence",-0.000635467043127765
+"lh_isthmuscingulate","GM","adolescence",0.00115606439103301
+"lh_lateraloccipital","GM","adolescence",-0.00139789148907549
+"lh_lateralorbitofrontal","GM","adolescence",0.00205240817683856
+"lh_lingual","GM","adolescence",-0.00183498897400734
+"lh_medialorbitofrontal","GM","adolescence",-0.00209774152312843
+"lh_middletemporal","GM","adolescence",-0.00291939957413858
+"lh_paracentral","GM","adolescence",-0.00389769458007236
+"lh_parahippocampal","GM","adolescence",0.00189587275722903
+"lh_parsopercularis","GM","adolescence",0.00854892177290249
+"lh_parsorbitalis","GM","adolescence",-0.00940254252890209
+"lh_parstriangularis","GM","adolescence",-0.00696103281985667
+"lh_pericalcarine","GM","adolescence",-0.00289042623494312
+"lh_postcentral","GM","adolescence",0.00270163445567203
+"lh_posteriorcingulate","GM","adolescence",0.00153353360422311
+"lh_precentral","GM","adolescence",0.00096438426598165
+"lh_precuneus","GM","adolescence",-0.00151914277190273
+"lh_rostralanteriorcingulate","GM","adolescence",0.012348210200591
+"lh_rostralmiddlefrontal","GM","adolescence",-0.000185411602776208
+"lh_superiorfrontal","GM","adolescence",0.00230473140518996
+"lh_superiorparietal","GM","adolescence",-0.000176119369124207
+"lh_superiortemporal","GM","adolescence",0.00336745031173836
+"lh_supramarginal","GM","adolescence",0.00536229452596449
+"lh_temporalpole","GM","adolescence",0.00112869818652018
+"lh_transversetemporal","GM","adolescence",0.00908982889074701
+"lh_bankssts","GM","young adulthood",0.0056137247000056
+"lh_caudalanteriorcingulate","GM","young adulthood",-0.00916945273190307
+"lh_caudalmiddlefrontal","GM","young adulthood",0.00407873045862959
+"lh_cuneus","GM","young adulthood",-0.00177666058839876
+"lh_entorhinal","GM","young adulthood",0.00325299481116843
+"lh_frontalpole","GM","young adulthood",-0.00924072315870118
+"lh_fusiform","GM","young adulthood",0.00106078395504177
+"lh_HEMI","GM","young adulthood",5.24494629817754e-05
+"lh_inferiorparietal","GM","young adulthood",-0.0125851308106461
+"lh_inferiortemporal","GM","young adulthood",0.00148898446874469
+"lh_insula","GM","young adulthood",-0.00126263288623346
+"lh_isthmuscingulate","GM","young adulthood",0.00136584418307548
+"lh_lateraloccipital","GM","young adulthood",-0.00126725196574089
+"lh_lateralorbitofrontal","GM","young adulthood",0.00237773919799275
+"lh_lingual","GM","young adulthood",-0.002662330538111
+"lh_medialorbitofrontal","GM","young adulthood",-0.00236667428215763
+"lh_middletemporal","GM","young adulthood",-0.00348680525007584
+"lh_paracentral","GM","young adulthood",-0.00522549446500498
+"lh_parahippocampal","GM","young adulthood",0.00230436591303342
+"lh_parsopercularis","GM","young adulthood",0.0104854945442783
+"lh_parsorbitalis","GM","young adulthood",-0.0122684742398357
+"lh_parstriangularis","GM","young adulthood",-0.00893848455449162
+"lh_pericalcarine","GM","young adulthood",-0.00408073263225741
+"lh_postcentral","GM","young adulthood",0.00337199316606472
+"lh_posteriorcingulate","GM","young adulthood",0.00244082905382059
+"lh_precentral","GM","young adulthood",0.00127379041232423
+"lh_precuneus","GM","young adulthood",-0.00196369017679202
+"lh_rostralanteriorcingulate","GM","young adulthood",0.0154466742565448
+"lh_rostralmiddlefrontal","GM","young adulthood",-0.000230232560593172
+"lh_superiorfrontal","GM","young adulthood",0.00283925078850325
+"lh_superiorparietal","GM","young adulthood",-0.000223746417552441
+"lh_superiortemporal","GM","young adulthood",0.0041692106304767
+"lh_supramarginal","GM","young adulthood",0.00624774130592211
+"lh_temporalpole","GM","young adulthood",0.00121878616075488
+"lh_transversetemporal","GM","young adulthood",0.0117091634405263
+"lh_bankssts","GM","middle adulthood",0.00188221514859313
+"lh_caudalanteriorcingulate","GM","middle adulthood",-0.00312205839738772
+"lh_caudalmiddlefrontal","GM","middle adulthood",0.00140515825086224
+"lh_cuneus","GM","middle adulthood",-0.000664019302834454
+"lh_entorhinal","GM","middle adulthood",0.000993589279130981
+"lh_frontalpole","GM","middle adulthood",-0.00331967965379152
+"lh_fusiform","GM","middle adulthood",0.00039598065118367
+"lh_HEMI","GM","middle adulthood",-6.63603133657528e-06
+"lh_inferiorparietal","GM","middle adulthood",-0.00434835275190207
+"lh_inferiortemporal","GM","middle adulthood",0.000505604354725028
+"lh_insula","GM","middle adulthood",-0.000524006676427607
+"lh_isthmuscingulate","GM","middle adulthood",0.000543857806813495
+"lh_lateraloccipital","GM","middle adulthood",-0.000382816818630674
+"lh_lateralorbitofrontal","GM","middle adulthood",0.000773722097839476
+"lh_lingual","GM","middle adulthood",-0.00107467702450147
+"lh_medialorbitofrontal","GM","middle adulthood",-0.000762303990751425
+"lh_middletemporal","GM","middle adulthood",-0.00126512385229235
+"lh_paracentral","GM","middle adulthood",-0.00190085191436457
+"lh_parahippocampal","GM","middle adulthood",0.000778290098276016
+"lh_parsopercularis","GM","middle adulthood",0.00351225660004848
+"lh_parsorbitalis","GM","middle adulthood",-0.00440635760266618
+"lh_parstriangularis","GM","middle adulthood",-0.00320568719593541
+"lh_pericalcarine","GM","middle adulthood",-0.00161173568672262
+"lh_postcentral","GM","middle adulthood",0.0011882280964777
+"lh_posteriorcingulate","GM","middle adulthood",0.000976169084967677
+"lh_precentral","GM","middle adulthood",0.000426434151293276
+"lh_precuneus","GM","middle adulthood",-0.000763966765543154
+"lh_rostralanteriorcingulate","GM","middle adulthood",0.00527262638292975
+"lh_rostralmiddlefrontal","GM","middle adulthood",-0.000145236479921093
+"lh_superiorfrontal","GM","middle adulthood",0.000966586483140181
+"lh_superiorparietal","GM","middle adulthood",-5.54110455810658e-05
+"lh_superiortemporal","GM","middle adulthood",0.00139904752397781
+"lh_supramarginal","GM","middle adulthood",0.00203617140498959
+"lh_temporalpole","GM","middle adulthood",0.000355467451852643
+"lh_transversetemporal","GM","middle adulthood",0.00415382194022884
+"lh_bankssts","GM","late adulthood",0.00638541642486942
+"lh_caudalanteriorcingulate","GM","late adulthood",-0.0107309546462753
+"lh_caudalmiddlefrontal","GM","late adulthood",0.00469379632842824
+"lh_cuneus","GM","late adulthood",-0.00310678041890464
+"lh_entorhinal","GM","late adulthood",0.0029070528836597
+"lh_frontalpole","GM","late adulthood",-0.0124122153328615
+"lh_fusiform","GM","late adulthood",0.00159227657394893
+"lh_HEMI","GM","late adulthood",-0.000155311328612007
+"lh_inferiorparietal","GM","late adulthood",-0.0147952355557712
+"lh_inferiortemporal","GM","late adulthood",0.00158075247271016
+"lh_insula","GM","late adulthood",-0.00166953773288894
+"lh_isthmuscingulate","GM","late adulthood",0.00230545215626292
+"lh_lateraloccipital","GM","late adulthood",-0.00152323882090772
+"lh_lateralorbitofrontal","GM","late adulthood",0.00251042071246778
+"lh_lingual","GM","late adulthood",-0.00439814829511373
+"lh_medialorbitofrontal","GM","late adulthood",-0.00248643438108155
+"lh_middletemporal","GM","late adulthood",-0.00502957314460311
+"lh_paracentral","GM","late adulthood",-0.00672650442760839
+"lh_parahippocampal","GM","late adulthood",0.00224380458214847
+"lh_parsopercularis","GM","late adulthood",0.0115366117533805
+"lh_parsorbitalis","GM","late adulthood",-0.0153531930100298
+"lh_parstriangularis","GM","late adulthood",-0.0114268250282109
+"lh_pericalcarine","GM","late adulthood",-0.00631791828918082
+"lh_postcentral","GM","late adulthood",0.00416422525613982
+"lh_posteriorcingulate","GM","late adulthood",0.00365933707822986
+"lh_precentral","GM","late adulthood",0.00131774051529743
+"lh_precuneus","GM","late adulthood",-0.00304174887767467
+"lh_rostralanteriorcingulate","GM","late adulthood",0.0177567261658222
+"lh_rostralmiddlefrontal","GM","late adulthood",-0.000934955009826827
+"lh_superiorfrontal","GM","late adulthood",0.00323751001180191
+"lh_superiorparietal","GM","late adulthood",-4.22052372928098e-05
+"lh_superiortemporal","GM","late adulthood",0.00458047781330661
+"lh_supramarginal","GM","late adulthood",0.00661999089473811
+"lh_temporalpole","GM","late adulthood",0.00102495950572702
+"lh_transversetemporal","GM","late adulthood",0.0144848113217327
+"lh_bankssts","CT","late fetal",0.000771620698871877
+"lh_caudalanteriorcingulate","CT","late fetal",0.00767646976348838
+"lh_caudalmiddlefrontal","CT","late fetal",0.001004986913814
+"lh_cuneus","CT","late fetal",NA
+"lh_entorhinal","CT","late fetal",0.000444695360419968
+"lh_frontalpole","CT","late fetal",0.000591292981152444
+"lh_fusiform","CT","late fetal",0.000907956486120133
+"lh_HEMI","CT","late fetal",NA
+"lh_inferiorparietal","CT","late fetal",-0.000688569288458033
+"lh_inferiortemporal","CT","late fetal",-0.000603089864352226
+"lh_insula","CT","late fetal",-0.00155767127296327
+"lh_isthmuscingulate","CT","late fetal",0.000266279667342463
+"lh_lateraloccipital","CT","late fetal",-0.00211328481026285
+"lh_lateralorbitofrontal","CT","late fetal",0.0006013759701298
+"lh_lingual","CT","late fetal",0.000546982681254845
+"lh_medialorbitofrontal","CT","late fetal",0.00101443905800845
+"lh_middletemporal","CT","late fetal",0.00106596249585913
+"lh_paracentral","CT","late fetal",-0.00160107278851849
+"lh_parahippocampal","CT","late fetal",0.00309680683175686
+"lh_parsopercularis","CT","late fetal",0.00108179905227489
+"lh_parsorbitalis","CT","late fetal",-0.000972467370098593
+"lh_parstriangularis","CT","late fetal",-0.000485372428200638
+"lh_pericalcarine","CT","late fetal",0.000553612899057272
+"lh_postcentral","CT","late fetal",0.00108979831742017
+"lh_posteriorcingulate","CT","late fetal",0.00505195971209619
+"lh_precentral","CT","late fetal",0.000653441110786522
+"lh_precuneus","CT","late fetal",-0.000254412112414662
+"lh_rostralanteriorcingulate","CT","late fetal",0.00408466572086169
+"lh_rostralmiddlefrontal","CT","late fetal",0.00162956475850422
+"lh_superiorfrontal","CT","late fetal",0.000422055288072487
+"lh_superiorparietal","CT","late fetal",-0.00165785359100655
+"lh_superiortemporal","CT","late fetal",0.00176620436460947
+"lh_supramarginal","CT","late fetal",0.0020419371281561
+"lh_temporalpole","CT","late fetal",-0.00286644301044242
+"lh_transversetemporal","CT","late fetal",2.94248179924407e-05
+"lh_bankssts","CT","neonatal",0.000213511651576539
+"lh_caudalanteriorcingulate","CT","neonatal",0.00991846414346577
+"lh_caudalmiddlefrontal","CT","neonatal",0.00138425562809058
+"lh_cuneus","CT","neonatal",0.00155805583028863
+"lh_entorhinal","CT","neonatal",0.000257033248728639
+"lh_frontalpole","CT","neonatal",-0.00125762225475505
+"lh_fusiform","CT","neonatal",0.000932502187957924
+"lh_HEMI","CT","neonatal",-2.04368209701015e-05
+"lh_inferiorparietal","CT","neonatal",-0.000901813448439451
+"lh_inferiortemporal","CT","neonatal",-0.000630735440320486
+"lh_insula","CT","neonatal",-0.00189538350427425
+"lh_isthmuscingulate","CT","neonatal",0.000382686298008236
+"lh_lateraloccipital","CT","neonatal",-0.00365628740815353
+"lh_lateralorbitofrontal","CT","neonatal",0.00137182776248
+"lh_lingual","CT","neonatal",0.000207913920730239
+"lh_medialorbitofrontal","CT","neonatal",0.000572177479690462
+"lh_middletemporal","CT","neonatal",0.000464325560991373
+"lh_paracentral","CT","neonatal",-0.00174731039664992
+"lh_parahippocampal","CT","neonatal",0.00396225145483382
+"lh_parsopercularis","CT","neonatal",0.000639756150053984
+"lh_parsorbitalis","CT","neonatal",-0.00102150313048935
+"lh_parstriangularis","CT","neonatal",-0.00077591756936645
+"lh_pericalcarine","CT","neonatal",0.000523689499583613
+"lh_postcentral","CT","neonatal",0.00131411204115744
+"lh_posteriorcingulate","CT","neonatal",0.00569497192061194
+"lh_precentral","CT","neonatal",0.000934073171926656
+"lh_precuneus","CT","neonatal",-0.000480118779629545
+"lh_rostralanteriorcingulate","CT","neonatal",0.00462251463004366
+"lh_rostralmiddlefrontal","CT","neonatal",0.00202469770427392
+"lh_superiorfrontal","CT","neonatal",0.000681543325818995
+"lh_superiorparietal","CT","neonatal",-0.00219149612831648
+"lh_superiortemporal","CT","neonatal",0.00108878247796311
+"lh_supramarginal","CT","neonatal",0.0023470567321405
+"lh_temporalpole","CT","neonatal",-0.00329119795003778
+"lh_transversetemporal","CT","neonatal",-0.00129660929094672
+"lh_bankssts","CT","late infancy",-0.000528921779458641
+"lh_caudalanteriorcingulate","CT","late infancy",0.00437595040697987
+"lh_caudalmiddlefrontal","CT","late infancy",0.000652361242927334
+"lh_cuneus","CT","late infancy",0.000548142022293931
+"lh_entorhinal","CT","late infancy",-0.000167796218745223
+"lh_frontalpole","CT","late infancy",-0.00129577605628617
+"lh_fusiform","CT","late infancy",0.000245199182811394
+"lh_HEMI","CT","late infancy",-4.17958070890381e-05
+"lh_inferiorparietal","CT","late infancy",-0.000431185794675101
+"lh_inferiortemporal","CT","late infancy",-0.000166153579068324
+"lh_insula","CT","late infancy",-0.000727667316089825
+"lh_isthmuscingulate","CT","late infancy",0.000191241922000365
+"lh_lateraloccipital","CT","late infancy",-0.00221167573842162
+"lh_lateralorbitofrontal","CT","late infancy",0.000871086950713516
+"lh_lingual","CT","late infancy",-0.000284835692836245
+"lh_medialorbitofrontal","CT","late infancy",-0.000294434799919867
+"lh_middletemporal","CT","late infancy",-0.000371869050626807
+"lh_paracentral","CT","late infancy",-0.00047951165918103
+"lh_parahippocampal","CT","late infancy",0.00181542390066109
+"lh_parsopercularis","CT","late infancy",-3.01674385648829e-05
+"lh_parsorbitalis","CT","late infancy",-0.000275510619379168
+"lh_parstriangularis","CT","late infancy",-0.000410609338163905
+"lh_pericalcarine","CT","late infancy",0.000110141356157577
+"lh_postcentral","CT","late infancy",0.000522145292095703
+"lh_posteriorcingulate","CT","late infancy",0.00215654628099725
+"lh_precentral","CT","late infancy",0.000526046127695661
+"lh_precuneus","CT","late infancy",-0.000293882930170095
+"lh_rostralanteriorcingulate","CT","late infancy",0.00142604354483138
+"lh_rostralmiddlefrontal","CT","late infancy",0.000781669220304132
+"lh_superiorfrontal","CT","late infancy",0.000406645980681326
+"lh_superiorparietal","CT","late infancy",-0.000924232192294321
+"lh_superiortemporal","CT","late infancy",-0.000170049012919517
+"lh_supramarginal","CT","late infancy",0.000825878541292705
+"lh_temporalpole","CT","late infancy",-0.00120840866904269
+"lh_transversetemporal","CT","late infancy",-0.00107923175678716
+"lh_bankssts","CT","early childhood",-0.00384994766943278
+"lh_caudalanteriorcingulate","CT","early childhood",0.00621832255618235
+"lh_caudalmiddlefrontal","CT","early childhood",0.00123479532468903
+"lh_cuneus","CT","early childhood",-0.000229547037517028
+"lh_entorhinal","CT","early childhood",-0.00175719529703733
+"lh_frontalpole","CT","early childhood",-0.00200420733877435
+"lh_fusiform","CT","early childhood",-0.000338236504679298
+"lh_HEMI","CT","early childhood",-0.000257905222261654
+"lh_inferiorparietal","CT","early childhood",-0.00128529114730595
+"lh_inferiortemporal","CT","early childhood",6.49418881958994e-05
+"lh_insula","CT","early childhood",-0.000711520783970233
+"lh_isthmuscingulate","CT","early childhood",0.00033640308813496
+"lh_lateraloccipital","CT","early childhood",-0.00539103909586368
+"lh_lateralorbitofrontal","CT","early childhood",0.00208981966373937
+"lh_lingual","CT","early childhood",-0.00176256331285114
+"lh_medialorbitofrontal","CT","early childhood",-0.00222006372354783
+"lh_middletemporal","CT","early childhood",-0.00231360916566242
+"lh_paracentral","CT","early childhood",0.00055626542184549
+"lh_parahippocampal","CT","early childhood",0.00336303070575898
+"lh_parsopercularis","CT","early childhood",-0.00044951819524594
+"lh_parsorbitalis","CT","early childhood",0.000278276880477518
+"lh_parstriangularis","CT","early childhood",-0.000605958197024268
+"lh_pericalcarine","CT","early childhood",3.69458175025247e-06
+"lh_postcentral","CT","early childhood",0.000610322009910565
+"lh_posteriorcingulate","CT","early childhood",0.00244657851338906
+"lh_precentral","CT","early childhood",0.00145089345587849
+"lh_precuneus","CT","early childhood",-0.00063945025582892
+"lh_rostralanteriorcingulate","CT","early childhood",-0.000496573553293064
+"lh_rostralmiddlefrontal","CT","early childhood",0.000851397216357678
+"lh_superiorfrontal","CT","early childhood",0.00117594542441344
+"lh_superiorparietal","CT","early childhood",-0.00087123654331758
+"lh_superiortemporal","CT","early childhood",-0.00213503145708692
+"lh_supramarginal","CT","early childhood",0.000236959522061214
+"lh_temporalpole","CT","early childhood",-0.00168896539035679
+"lh_transversetemporal","CT","early childhood",-0.00253130063575654
+"lh_bankssts","CT","middle and late childhood",-0.00245276913387151
+"lh_caudalanteriorcingulate","CT","middle and late childhood",0.00154609026893488
+"lh_caudalmiddlefrontal","CT","middle and late childhood",0.000583548630758852
+"lh_cuneus","CT","middle and late childhood",-0.000414418532829622
+"lh_entorhinal","CT","middle and late childhood",-0.00121128897352383
+"lh_frontalpole","CT","middle and late childhood",0.000207534827371843
+"lh_fusiform","CT","middle and late childhood",-0.000370811111923934
+"lh_HEMI","CT","middle and late childhood",-0.000183308767072458
+"lh_inferiorparietal","CT","middle and late childhood",-0.000986334018836532
+"lh_inferiortemporal","CT","middle and late childhood",-3.95107384924238e-05
+"lh_insula","CT","middle and late childhood",-0.000245234543169912
+"lh_isthmuscingulate","CT","middle and late childhood",0.000100998380371652
+"lh_lateraloccipital","CT","middle and late childhood",-0.00212615515911502
+"lh_lateralorbitofrontal","CT","middle and late childhood",0.00103739859752557
+"lh_lingual","CT","middle and late childhood",-0.000738491185941851
+"lh_medialorbitofrontal","CT","middle and late childhood",-0.000737240508727266
+"lh_middletemporal","CT","middle and late childhood",-0.000992167352163488
+"lh_paracentral","CT","middle and late childhood",0.000421450486391491
+"lh_parahippocampal","CT","middle and late childhood",0.00133694565091325
+"lh_parsopercularis","CT","middle and late childhood",-0.000117737814611441
+"lh_parsorbitalis","CT","middle and late childhood",0.000273647808551763
+"lh_parstriangularis","CT","middle and late childhood",-3.75207026876456e-05
+"lh_pericalcarine","CT","middle and late childhood",0.000150519736514238
+"lh_postcentral","CT","middle and late childhood",0.000150353580768689
+"lh_posteriorcingulate","CT","middle and late childhood",0.000452320944945131
+"lh_precentral","CT","middle and late childhood",0.00069648070788689
+"lh_precuneus","CT","middle and late childhood",-0.000220885363342641
+"lh_rostralanteriorcingulate","CT","middle and late childhood",-0.00069861396377274
+"lh_rostralmiddlefrontal","CT","middle and late childhood",0.000437065099952757
+"lh_superiorfrontal","CT","middle and late childhood",0.000617041892826589
+"lh_superiorparietal","CT","middle and late childhood",-7.56869935395457e-06
+"lh_superiortemporal","CT","middle and late childhood",-0.00111366530634927
+"lh_supramarginal","CT","middle and late childhood",-0.000402088971959802
+"lh_temporalpole","CT","middle and late childhood",-0.00108237185606216
+"lh_transversetemporal","CT","middle and late childhood",-0.000963282824438253
+"lh_bankssts","CT","adolescence",-0.00188689246936516
+"lh_caudalanteriorcingulate","CT","adolescence",0.00109756604065108
+"lh_caudalmiddlefrontal","CT","adolescence",0.000493064805303192
+"lh_cuneus","CT","adolescence",-0.00029120323797305
+"lh_entorhinal","CT","adolescence",-0.000975789370754941
+"lh_frontalpole","CT","adolescence",0.000411858676475402
+"lh_fusiform","CT","adolescence",-0.000276325524863649
+"lh_HEMI","CT","adolescence",-0.00016541551802517
+"lh_inferiorparietal","CT","adolescence",-0.000921645763188507
+"lh_inferiortemporal","CT","adolescence",-0.000137631809932157
+"lh_insula","CT","adolescence",-0.000307453087507099
+"lh_isthmuscingulate","CT","adolescence",7.16669272202713e-05
+"lh_lateraloccipital","CT","adolescence",-0.00146388088936639
+"lh_lateralorbitofrontal","CT","adolescence",0.00086324394794576
+"lh_lingual","CT","adolescence",-0.00041484713771193
+"lh_medialorbitofrontal","CT","adolescence",-0.000201552613516205
+"lh_middletemporal","CT","adolescence",-0.000604804574062532
+"lh_paracentral","CT","adolescence",0.000123708523533105
+"lh_parahippocampal","CT","adolescence",0.00104300084383781
+"lh_parsopercularis","CT","adolescence",-9.13450092812559e-05
+"lh_parsorbitalis","CT","adolescence",0.000146534399907247
+"lh_parstriangularis","CT","adolescence",2.11203511537753e-05
+"lh_pericalcarine","CT","adolescence",0.000146970989767488
+"lh_postcentral","CT","adolescence",0.000136819301191977
+"lh_posteriorcingulate","CT","adolescence",0.000262957566628785
+"lh_precentral","CT","adolescence",0.000512344016468087
+"lh_precuneus","CT","adolescence",-0.000157360299604437
+"lh_rostralanteriorcingulate","CT","adolescence",-0.000301263899258226
+"lh_rostralmiddlefrontal","CT","adolescence",0.000495711491279252
+"lh_superiorfrontal","CT","adolescence",0.000456767365497368
+"lh_superiorparietal","CT","adolescence",5.91149271204569e-06
+"lh_superiortemporal","CT","adolescence",-0.000772906977109637
+"lh_supramarginal","CT","adolescence",-0.000355099370776533
+"lh_temporalpole","CT","adolescence",-0.00113212090653308
+"lh_transversetemporal","CT","adolescence",-0.000717667925149364
+"lh_bankssts","CT","young adulthood",-0.00230889580244748
+"lh_caudalanteriorcingulate","CT","young adulthood",0.00152595324206964
+"lh_caudalmiddlefrontal","CT","young adulthood",0.00060599376322508
+"lh_cuneus","CT","young adulthood",-0.000414147059040362
+"lh_entorhinal","CT","young adulthood",-0.0013141784968575
+"lh_frontalpole","CT","young adulthood",0.000575764103855884
+"lh_fusiform","CT","young adulthood",-0.000307477755715423
+"lh_HEMI","CT","young adulthood",-0.000265872188493679
+"lh_inferiorparietal","CT","young adulthood",-0.00124032032595039
+"lh_inferiortemporal","CT","young adulthood",-0.00028199744100402
+"lh_insula","CT","young adulthood",-0.000561192780054589
+"lh_isthmuscingulate","CT","young adulthood",0.000102921959055257
+"lh_lateraloccipital","CT","young adulthood",-0.00171739744122639
+"lh_lateralorbitofrontal","CT","young adulthood",0.00106944804738064
+"lh_lingual","CT","young adulthood",-0.000499536084630627
+"lh_medialorbitofrontal","CT","young adulthood",4.87687737632822e-05
+"lh_middletemporal","CT","young adulthood",-0.000690648684656922
+"lh_paracentral","CT","young adulthood",-0.000147904354594115
+"lh_parahippocampal","CT","young adulthood",0.00141531211412683
+"lh_parsopercularis","CT","young adulthood",-0.000213060610642818
+"lh_parsorbitalis","CT","young adulthood",4.09218734209019e-05
+"lh_parstriangularis","CT","young adulthood",1.13153335173378e-05
+"lh_pericalcarine","CT","young adulthood",-2.19263385128937e-05
+"lh_postcentral","CT","young adulthood",0.000242137603632937
+"lh_posteriorcingulate","CT","young adulthood",0.000267414773108911
+"lh_precentral","CT","young adulthood",0.000612562329461998
+"lh_precuneus","CT","young adulthood",-0.000217131079407449
+"lh_rostralanteriorcingulate","CT","young adulthood",-0.000403967547381898
+"lh_rostralmiddlefrontal","CT","young adulthood",0.00068702987985981
+"lh_superiorfrontal","CT","young adulthood",0.000470257835252998
+"lh_superiorparietal","CT","young adulthood",1.41320448793795e-05
+"lh_superiortemporal","CT","young adulthood",-0.000906143646908632
+"lh_supramarginal","CT","young adulthood",-0.000440963710973022
+"lh_temporalpole","CT","young adulthood",-0.00177097517190062
+"lh_transversetemporal","CT","young adulthood",-0.000851438691881361
+"lh_bankssts","CT","middle adulthood",-0.000773560755321794
+"lh_caudalanteriorcingulate","CT","middle adulthood",0.000592602609319451
+"lh_caudalmiddlefrontal","CT","middle adulthood",0.000169713922719169
+"lh_cuneus","CT","middle adulthood",-0.000206673329932075
+"lh_entorhinal","CT","middle adulthood",-0.000497532797929248
+"lh_frontalpole","CT","middle adulthood",0.000163108871336923
+"lh_fusiform","CT","middle adulthood",-9.28049121816752e-05
+"lh_HEMI","CT","middle adulthood",-0.000117459491579767
+"lh_inferiorparietal","CT","middle adulthood",-0.000399019062451885
+"lh_inferiortemporal","CT","middle adulthood",-0.00010627282178525
+"lh_insula","CT","middle adulthood",-0.000229396080847362
+"lh_isthmuscingulate","CT","middle adulthood",4.36902909341669e-05
+"lh_lateraloccipital","CT","middle adulthood",-0.000581618180888574
+"lh_lateralorbitofrontal","CT","middle adulthood",0.000307415658305575
+"lh_lingual","CT","middle adulthood",-0.000241391320454706
+"lh_medialorbitofrontal","CT","middle adulthood",1.06912803421484e-05
+"lh_middletemporal","CT","middle adulthood",-0.000268211604468019
+"lh_paracentral","CT","middle adulthood",-0.000117376353175309
+"lh_parahippocampal","CT","middle adulthood",0.000529399706255061
+"lh_parsopercularis","CT","middle adulthood",-0.000121584921300492
+"lh_parsorbitalis","CT","middle adulthood",-3.7844427860983e-05
+"lh_parstriangularis","CT","middle adulthood",-2.05769759648948e-05
+"lh_pericalcarine","CT","middle adulthood",-0.000151306533800698
+"lh_postcentral","CT","middle adulthood",0.000111338137964897
+"lh_posteriorcingulate","CT","middle adulthood",7.54903132985873e-05
+"lh_precentral","CT","middle adulthood",0.000204512516877454
+"lh_precuneus","CT","middle adulthood",-8.77133026272042e-05
+"lh_rostralanteriorcingulate","CT","middle adulthood",-0.000326676246150769
+"lh_rostralmiddlefrontal","CT","middle adulthood",0.000178000382147747
+"lh_superiorfrontal","CT","middle adulthood",0.000105518292992862
+"lh_superiorparietal","CT","middle adulthood",2.83574366416524e-05
+"lh_superiortemporal","CT","middle adulthood",-0.000310840297431706
+"lh_supramarginal","CT","middle adulthood",-0.000144032436712362
+"lh_temporalpole","CT","middle adulthood",-0.000678681695845979
+"lh_transversetemporal","CT","middle adulthood",-0.000246025243211346
+"lh_bankssts","CT","late adulthood",-0.00255762806741963
+"lh_caudalanteriorcingulate","CT","late adulthood",0.00216897149590273
+"lh_caudalmiddlefrontal","CT","late adulthood",0.000269035195687792
+"lh_cuneus","CT","late adulthood",-0.00115805269282164
+"lh_entorhinal","CT","late adulthood",-0.00192163281761877
+"lh_frontalpole","CT","late adulthood",0.000294445314176037
+"lh_fusiform","CT","late adulthood",-0.00027798417894766
+"lh_HEMI","CT","late adulthood",-0.000507331725316
+"lh_inferiorparietal","CT","late adulthood",-0.000998670606237968
+"lh_inferiortemporal","CT","late adulthood",-0.00026938990764333
+"lh_insula","CT","late adulthood",-0.000786647390729697
+"lh_isthmuscingulate","CT","late adulthood",0.000189482296286572
+"lh_lateraloccipital","CT","late adulthood",-0.00199311739313926
+"lh_lateralorbitofrontal","CT","late adulthood",0.00054615095861918
+"lh_lingual","CT","late adulthood",-0.00138995634067191
+"lh_medialorbitofrontal","CT","late adulthood",-0.000461667095849969
+"lh_middletemporal","CT","late adulthood",-0.00119914149940527
+"lh_paracentral","CT","late adulthood",-0.00043847647726061
+"lh_parahippocampal","CT","late adulthood",0.00193775614479064
+"lh_parsopercularis","CT","late adulthood",-0.000607778127715108
+"lh_parsorbitalis","CT","late adulthood",-0.000332972975735933
+"lh_parstriangularis","CT","late adulthood",-0.000217705048898094
+"lh_pericalcarine","CT","late adulthood",-0.00132160457607342
+"lh_postcentral","CT","late adulthood",0.00048934484793693
+"lh_posteriorcingulate","CT","late adulthood",0.000200886661871284
+"lh_precentral","CT","late adulthood",0.000680625801283969
+"lh_precuneus","CT","late adulthood",-0.00035783781188799
+"lh_rostralanteriorcingulate","CT","late adulthood",-0.00261142266876331
+"lh_rostralmiddlefrontal","CT","late adulthood",1.47067606093435e-05
+"lh_superiorfrontal","CT","late adulthood",6.54464215346579e-05
+"lh_superiorparietal","CT","late adulthood",0.000316170478807974
+"lh_superiortemporal","CT","late adulthood",-0.00110092778183171
+"lh_supramarginal","CT","late adulthood",-0.00045181541297742
+"lh_temporalpole","CT","late adulthood",-0.00235558593729795
+"lh_transversetemporal","CT","late adulthood",-0.000465222657307346
+"Left-Accumbens-area","SUBC","late fetal",NA
+"Left-Amygdala","SUBC","late fetal",0.00549980257923207
+"Left-Caudate","SUBC","late fetal",8.68072739686862e-05
+"Right-Cerebellum-Cortex","SUBC","late fetal",NA
+"Right-Cerebellum-White-Matter","SUBC","late fetal",NA
+"Right-Cerebellum","SUBC","late fetal",NA
+"Left-choroid-plexus","SUBC","late fetal",NA
+"Left-Hippocampus","SUBC","late fetal",-0.00345157158471798
+"Left-Inf-Lat-Vent","SUBC","late fetal",NA
+"Left-Lateral-Ventricle","SUBC","late fetal",0.00724386005001545
+"Left-Pallidum","SUBC","late fetal",NA
+"Left-Putamen","SUBC","late fetal",NA
+"Left-Thalamus-Proper","SUBC","late fetal",0.00141621360561521
+"Left-VentralDC","SUBC","late fetal",NA
+"Left-vessel","SUBC","late fetal",NA
+"Left-Accumbens-area","SUBC","neonatal",-0.000271677155474622
+"Left-Amygdala","SUBC","neonatal",0.00400161452126593
+"Left-Caudate","SUBC","neonatal",-0.00216677493719323
+"Right-Cerebellum-Cortex","SUBC","neonatal",0.00191253555600359
+"Right-Cerebellum-White-Matter","SUBC","neonatal",0.00243538210112216
+"Right-Cerebellum","SUBC","neonatal",NA
+"Left-choroid-plexus","SUBC","neonatal",NA
+"Left-Hippocampus","SUBC","neonatal",-0.00471715141464324
+"Left-Inf-Lat-Vent","SUBC","neonatal",0.00629116110327443
+"Left-Lateral-Ventricle","SUBC","neonatal",0.0106046084785719
+"Left-Pallidum","SUBC","neonatal",0.00140126094433912
+"Left-Putamen","SUBC","neonatal",0.000461341528337559
+"Left-Thalamus-Proper","SUBC","neonatal",0.00189804948771335
+"Left-VentralDC","SUBC","neonatal",0.00075945013191106
+"Left-vessel","SUBC","neonatal",NA
+"Left-Accumbens-area","SUBC","late infancy",-0.00151489333507208
+"Left-Amygdala","SUBC","late infancy",-0.000286482342615113
+"Left-Caudate","SUBC","late infancy",-0.00210563537888271
+"Right-Cerebellum-Cortex","SUBC","late infancy",0.00168104584379134
+"Right-Cerebellum-White-Matter","SUBC","late infancy",0.00273004020767937
+"Right-Cerebellum","SUBC","late infancy",NA
+"Left-choroid-plexus","SUBC","late infancy",NA
+"Left-Hippocampus","SUBC","late infancy",-0.00242370174002112
+"Left-Inf-Lat-Vent","SUBC","late infancy",0.00560781727392869
+"Left-Lateral-Ventricle","SUBC","late infancy",0.00584901860399019
+"Left-Pallidum","SUBC","late infancy",0.00196585207589228
+"Left-Putamen","SUBC","late infancy",-0.000225307280687633
+"Left-Thalamus-Proper","SUBC","late infancy",0.00102147048844445
+"Left-VentralDC","SUBC","late infancy",0.000565385682707222
+"Left-vessel","SUBC","late infancy",NA
+"Left-Accumbens-area","SUBC","early childhood",-0.00929261085946412
+"Left-Amygdala","SUBC","early childhood",-0.00881879888618761
+"Left-Caudate","SUBC","early childhood",-0.00597048020781434
+"Right-Cerebellum-Cortex","SUBC","early childhood",0.00151101470742394
+"Right-Cerebellum-White-Matter","SUBC","early childhood",0.00678743682952752
+"Right-Cerebellum","SUBC","early childhood",NA
+"Left-choroid-plexus","SUBC","early childhood",NA
+"Left-Hippocampus","SUBC","early childhood",-0.0045897447851479
+"Left-Inf-Lat-Vent","SUBC","early childhood",0.00434684913863072
+"Left-Lateral-Ventricle","SUBC","early childhood",0.0124952761889707
+"Left-Pallidum","SUBC","early childhood",0.00655201042657155
+"Left-Putamen","SUBC","early childhood",-0.000909825440673119
+"Left-Thalamus-Proper","SUBC","early childhood",0.00311042225858798
+"Left-VentralDC","SUBC","early childhood",0.000145246322328693
+"Left-vessel","SUBC","early childhood",NA
+"Left-Accumbens-area","SUBC","middle and late childhood",-0.00441333651404567
+"Left-Amygdala","SUBC","middle and late childhood",-0.00480622428758275
+"Left-Caudate","SUBC","middle and late childhood",-0.00222613635830561
+"Right-Cerebellum-Cortex","SUBC","middle and late childhood",-0.000395697775558401
+"Right-Cerebellum-White-Matter","SUBC","middle and late childhood",0.00284284654339858
+"Right-Cerebellum","SUBC","middle and late childhood",NA
+"Left-choroid-plexus","SUBC","middle and late childhood",NA
+"Left-Hippocampus","SUBC","middle and late childhood",-0.00147190822189688
+"Left-Inf-Lat-Vent","SUBC","middle and late childhood",-0.00177261246448149
+"Left-Lateral-Ventricle","SUBC","middle and late childhood",0.00460220426202461
+"Left-Pallidum","SUBC","middle and late childhood",0.00215241550847876
+"Left-Putamen","SUBC","middle and late childhood",-9.11117183414578e-05
+"Left-Thalamus-Proper","SUBC","middle and late childhood",0.00206205768937887
+"Left-VentralDC","SUBC","middle and late childhood",-0.000164779434229312
+"Left-vessel","SUBC","middle and late childhood",NA
+"Left-Accumbens-area","SUBC","adolescence",-0.00283510797600638
+"Left-Amygdala","SUBC","adolescence",-0.00313006127183722
+"Left-Caudate","SUBC","adolescence",-0.00149115443260099
+"Right-Cerebellum-Cortex","SUBC","adolescence",-0.00052906341958118
+"Right-Cerebellum-White-Matter","SUBC","adolescence",0.00202306345160346
+"Right-Cerebellum","SUBC","adolescence",NA
+"Left-choroid-plexus","SUBC","adolescence",NA
+"Left-Hippocampus","SUBC","adolescence",-0.000986019391354967
+"Left-Inf-Lat-Vent","SUBC","adolescence",-0.0015755328083404
+"Left-Lateral-Ventricle","SUBC","adolescence",0.00330175098152664
+"Left-Pallidum","SUBC","adolescence",0.00101470540827659
+"Left-Putamen","SUBC","adolescence",5.05271138854797e-05
+"Left-Thalamus-Proper","SUBC","adolescence",0.00176461450067095
+"Left-VentralDC","SUBC","adolescence",-3.32846788161352e-05
+"Left-vessel","SUBC","adolescence",NA
+"Left-Accumbens-area","SUBC","young adulthood",-0.00396737722020114
+"Left-Amygdala","SUBC","young adulthood",-0.00397516028479536
+"Left-Caudate","SUBC","young adulthood",-0.00184524479294101
+"Right-Cerebellum-Cortex","SUBC","young adulthood",-0.000812956359620006
+"Right-Cerebellum-White-Matter","SUBC","young adulthood",0.0023973374188287
+"Right-Cerebellum","SUBC","young adulthood",NA
+"Left-choroid-plexus","SUBC","young adulthood",NA
+"Left-Hippocampus","SUBC","young adulthood",-0.00120011515565975
+"Left-Inf-Lat-Vent","SUBC","young adulthood",-0.000678938796587245
+"Left-Lateral-Ventricle","SUBC","young adulthood",0.00428647215711669
+"Left-Pallidum","SUBC","young adulthood",0.000619504418756447
+"Left-Putamen","SUBC","young adulthood",0.000104845457035534
+"Left-Thalamus-Proper","SUBC","young adulthood",0.00215493880725478
+"Left-VentralDC","SUBC","young adulthood",0.000198201108334412
+"Left-vessel","SUBC","young adulthood",NA
+"Left-Accumbens-area","SUBC","middle adulthood",-0.00199914841870341
+"Left-Amygdala","SUBC","middle adulthood",-0.00176104746806745
+"Left-Caudate","SUBC","middle adulthood",-0.000688440124305565
+"Right-Cerebellum-Cortex","SUBC","middle adulthood",-0.000300376268024037
+"Right-Cerebellum-White-Matter","SUBC","middle adulthood",0.000791328127227274
+"Right-Cerebellum","SUBC","middle adulthood",NA
+"Left-choroid-plexus","SUBC","middle adulthood",NA
+"Left-Hippocampus","SUBC","middle adulthood",-0.000430334499244013
+"Left-Inf-Lat-Vent","SUBC","middle adulthood",0.000521108235451758
+"Left-Lateral-Ventricle","SUBC","middle adulthood",0.00158110312129248
+"Left-Pallidum","SUBC","middle adulthood",7.72364673772763e-05
+"Left-Putamen","SUBC","middle adulthood",2.3649139470904e-05
+"Left-Thalamus-Proper","SUBC","middle adulthood",0.000615602926673091
+"Left-VentralDC","SUBC","middle adulthood",0.000157981312498312
+"Left-vessel","SUBC","middle adulthood",NA
+"Left-Accumbens-area","SUBC","late adulthood",-0.0112743452918843
+"Left-Amygdala","SUBC","late adulthood",-0.00894948147579843
+"Left-Caudate","SUBC","late adulthood",-0.0026608221281338
+"Right-Cerebellum-Cortex","SUBC","late adulthood",-0.00101232280470977
+"Right-Cerebellum-White-Matter","SUBC","late adulthood",0.00251725551818445
+"Right-Cerebellum","SUBC","late adulthood",NA
+"Left-choroid-plexus","SUBC","late adulthood",NA
+"Left-Hippocampus","SUBC","late adulthood",-0.00155581649655082
+"Left-Inf-Lat-Vent","SUBC","late adulthood",0.00524295243288035
+"Left-Lateral-Ventricle","SUBC","late adulthood",0.00552295076838612
+"Left-Pallidum","SUBC","late adulthood",-1.65077780683139e-05
+"Left-Putamen","SUBC","late adulthood",6.25670918670609e-06
+"Left-Thalamus-Proper","SUBC","late adulthood",0.00114598629277616
+"Left-VentralDC","SUBC","late adulthood",0.000875485263099576
+"Left-vessel","SUBC","late adulthood",NA

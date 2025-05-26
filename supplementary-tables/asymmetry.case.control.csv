@@ -1,0 +1,929 @@
+"label","cohensD","phenotype","Group2","pFDR.roi"
+"lh_bankssts",0.025,"SA","AD",0.532266666666667
+"lh_bankssts",0.008,"SA","ADHD",0.872187586206897
+"lh_bankssts",0.041,"SA","ASD",0.346742857142857
+"lh_bankssts",-0.003,"SA","SCZ",0.998
+"lh_bankssts",-0.013,"SA","MDD",0.97804
+"lh_bankssts",0.048,"SA","MCI",0.0766506666666667
+"lh_bankssts",NA,"SA","Psychosis - CHR-NC",1
+"lh_bankssts",NA,"SA","Other Dev.",1
+"lh_caudalanteriorcingulate",-0.038,"SA","AD",0.31024
+"lh_caudalanteriorcingulate",0.004,"SA","ADHD",0.98603
+"lh_caudalanteriorcingulate",0.013,"SA","ASD",0.766468571428571
+"lh_caudalanteriorcingulate",0.058,"SA","SCZ",0.538354285714286
+"lh_caudalanteriorcingulate",0.035,"SA","MDD",0.67064
+"lh_caudalanteriorcingulate",0.029,"SA","MCI",0.284523636363636
+"lh_caudalanteriorcingulate",NA,"SA","Psychosis - CHR-NC",1
+"lh_caudalanteriorcingulate",NA,"SA","Other Dev.",1
+"lh_caudalmiddlefrontal",-0.015,"SA","AD",0.682941538461538
+"lh_caudalmiddlefrontal",-0.06,"SA","ADHD",0.393058461538462
+"lh_caudalmiddlefrontal",-0.025,"SA","ASD",0.504899047619048
+"lh_caudalmiddlefrontal",0.074,"SA","SCZ",0.41516
+"lh_caudalmiddlefrontal",-0.004,"SA","MDD",0.97804
+"lh_caudalmiddlefrontal",-0.01,"SA","MCI",0.728616296296296
+"lh_caudalmiddlefrontal",NA,"SA","Psychosis - CHR-NC",1
+"lh_caudalmiddlefrontal",NA,"SA","Other Dev.",1
+"lh_cuneus",-0.09,"SA","AD",0.06384
+"lh_cuneus",-0.017,"SA","ADHD",0.815593846153846
+"lh_cuneus",0.09,"SA","ASD",0.03192
+"lh_cuneus",0.073,"SA","SCZ",0.421568
+"lh_cuneus",0,"SA","MDD",0.97804
+"lh_cuneus",-0.023,"SA","MCI",0.411005217391304
+"lh_cuneus",NA,"SA","Psychosis - CHR-NC",1
+"lh_cuneus",NA,"SA","Other Dev.",1
+"lh_frontalpole",-0.017,"SA","AD",0.672041739130435
+"lh_frontalpole",0.031,"SA","ADHD",0.739570526315789
+"lh_frontalpole",-0.023,"SA","ASD",0.504899047619048
+"lh_frontalpole",-0.03,"SA","SCZ",0.824538181818182
+"lh_frontalpole",0.008,"SA","MDD",0.97804
+"lh_frontalpole",-0.09,"SA","MCI",0.01824
+"lh_frontalpole",NA,"SA","Psychosis - CHR-NC",1
+"lh_frontalpole",NA,"SA","Other Dev.",1
+"lh_fusiform",-0.031,"SA","AD",0.35928
+"lh_fusiform",0.06,"SA","ADHD",0.27872
+"lh_fusiform",0.038,"SA","ASD",0.346742857142857
+"lh_fusiform",-0.022,"SA","SCZ",0.904853333333333
+"lh_fusiform",0.004,"SA","MDD",0.97804
+"lh_fusiform",-0.077,"SA","MCI",0.01824
+"lh_fusiform",NA,"SA","Psychosis - CHR-NC",1
+"lh_fusiform",NA,"SA","Other Dev.",1
+"lh_HEMI",-0.003,"SA","AD",0.94212
+"lh_HEMI",0.071,"SA","ADHD",0.255488
+"lh_HEMI",0.17,"SA","ASD",0.03192
+"lh_HEMI",-0.111,"SA","SCZ",0.149013333333333
+"lh_HEMI",0.023,"SA","MDD",0.97804
+"lh_HEMI",-0.081,"SA","MCI",0.01824
+"lh_HEMI",NA,"SA","Psychosis - CHR-NC",1
+"lh_HEMI",NA,"SA","Other Dev.",1
+"lh_inferiorparietal",0.052,"SA","AD",0.127744
+"lh_inferiorparietal",-0.124,"SA","ADHD",0.12768
+"lh_inferiorparietal",-0.029,"SA","ASD",0.450475789473684
+"lh_inferiorparietal",-0.042,"SA","SCZ",0.787751111111111
+"lh_inferiorparietal",-0.011,"SA","MDD",0.97804
+"lh_inferiorparietal",0.039,"SA","MCI",0.114976
+"lh_inferiorparietal",NA,"SA","Psychosis - CHR-NC",1
+"lh_inferiorparietal",NA,"SA","Other Dev.",1
+"lh_inferiortemporal",0.056,"SA","AD",0.127744
+"lh_inferiortemporal",0.006,"SA","ADHD",0.872187586206897
+"lh_inferiortemporal",-0.005,"SA","ASD",0.869491612903226
+"lh_inferiortemporal",-0.015,"SA","SCZ",0.919765333333333
+"lh_inferiortemporal",-0.011,"SA","MDD",0.97804
+"lh_inferiortemporal",-0.014,"SA","MCI",0.707507692307692
+"lh_inferiortemporal",NA,"SA","Psychosis - CHR-NC",1
+"lh_inferiortemporal",NA,"SA","Other Dev.",1
+"lh_insula",-0.006,"SA","AD",0.919765333333333
+"lh_insula",-0.064,"SA","ADHD",0.27872
+"lh_insula",-0.028,"SA","ASD",0.4208
+"lh_insula",-0.052,"SA","SCZ",0.664277333333333
+"lh_insula",0.025,"SA","MDD",0.91016
+"lh_insula",0.103,"SA","MCI",0.01824
+"lh_insula",NA,"SA","Psychosis - CHR-NC",1
+"lh_insula",NA,"SA","Other Dev.",1
+"lh_isthmuscingulate",-0.015,"SA","AD",0.672041739130435
+"lh_isthmuscingulate",-0.081,"SA","ADHD",0.255488
+"lh_isthmuscingulate",-0.033,"SA","ASD",0.3992
+"lh_isthmuscingulate",0.124,"SA","SCZ",0.127786666666667
+"lh_isthmuscingulate",0.001,"SA","MDD",0.97804
+"lh_isthmuscingulate",-0.012,"SA","MCI",0.707507692307692
+"lh_isthmuscingulate",NA,"SA","Psychosis - CHR-NC",1
+"lh_isthmuscingulate",NA,"SA","Other Dev.",1
+"lh_lateraloccipital",-0.058,"SA","AD",0.127744
+"lh_lateraloccipital",-0.031,"SA","ADHD",0.709688888888889
+"lh_lateraloccipital",0.032,"SA","ASD",0.37472
+"lh_lateraloccipital",-0.019,"SA","SCZ",0.904853333333333
+"lh_lateraloccipital",0.004,"SA","MDD",0.97804
+"lh_lateraloccipital",-0.132,"SA","MCI",0.01824
+"lh_lateraloccipital",NA,"SA","Psychosis - CHR-NC",1
+"lh_lateraloccipital",NA,"SA","Other Dev.",1
+"lh_lateralorbitofrontal",0.038,"SA","AD",0.340650666666667
+"lh_lateralorbitofrontal",0.01,"SA","ADHD",0.872187586206897
+"lh_lateralorbitofrontal",-0.012,"SA","ASD",0.766468571428571
+"lh_lateralorbitofrontal",0.037,"SA","SCZ",0.787751111111111
+"lh_lateralorbitofrontal",0.011,"SA","MDD",0.97804
+"lh_lateralorbitofrontal",-0.053,"SA","MCI",0.0532266666666667
+"lh_lateralorbitofrontal",NA,"SA","Psychosis - CHR-NC",1
+"lh_lateralorbitofrontal",NA,"SA","Other Dev.",1
+"lh_medialorbitofrontal",0.055,"SA","AD",0.127744
+"lh_medialorbitofrontal",0.078,"SA","ADHD",0.255488
+"lh_medialorbitofrontal",0.038,"SA","ASD",0.346742857142857
+"lh_medialorbitofrontal",-0.077,"SA","SCZ",0.421568
+"lh_medialorbitofrontal",0.011,"SA","MDD",0.97804
+"lh_medialorbitofrontal",-0.052,"SA","MCI",0.0687753846153846
+"lh_medialorbitofrontal",NA,"SA","Psychosis - CHR-NC",1
+"lh_medialorbitofrontal",NA,"SA","Other Dev.",1
+"lh_middletemporal",0.137,"SA","AD",0.04256
+"lh_middletemporal",0.065,"SA","ADHD",0.27872
+"lh_middletemporal",0.116,"SA","ASD",0.03192
+"lh_middletemporal",0.009,"SA","SCZ",0.919765333333333
+"lh_middletemporal",-0.04,"SA","MDD",0.67064
+"lh_middletemporal",0.007,"SA","MCI",0.885085714285714
+"lh_middletemporal",NA,"SA","Psychosis - CHR-NC",1
+"lh_middletemporal",NA,"SA","Other Dev.",1
+"lh_paracentral",-0.057,"SA","AD",0.102208
+"lh_paracentral",-0.048,"SA","ADHD",0.401485714285714
+"lh_paracentral",-0.036,"SA","ASD",0.346742857142857
+"lh_paracentral",-0.007,"SA","SCZ",0.919765333333333
+"lh_paracentral",-0.009,"SA","MDD",0.97804
+"lh_paracentral",-0.045,"SA","MCI",0.106453333333333
+"lh_paracentral",NA,"SA","Psychosis - CHR-NC",1
+"lh_paracentral",NA,"SA","Other Dev.",1
+"lh_parahippocampal",-0.019,"SA","AD",0.682941538461538
+"lh_parahippocampal",0.019,"SA","ADHD",0.792016
+"lh_parahippocampal",-0.011,"SA","ASD",0.766468571428571
+"lh_parahippocampal",0.066,"SA","SCZ",0.487738181818182
+"lh_parahippocampal",-0.016,"SA","MDD",0.97804
+"lh_parahippocampal",-0.049,"SA","MCI",0.0976941176470588
+"lh_parahippocampal",NA,"SA","Psychosis - CHR-NC",1
+"lh_parahippocampal",NA,"SA","Other Dev.",1
+"lh_parsopercularis",0.047,"SA","AD",0.255493333333333
+"lh_parsopercularis",0.02,"SA","ADHD",0.815593846153846
+"lh_parsopercularis",0.013,"SA","ASD",0.792893793103448
+"lh_parsopercularis",-0.017,"SA","SCZ",0.919765333333333
+"lh_parsopercularis",0.001,"SA","MDD",0.97804
+"lh_parsopercularis",0.003,"SA","MCI",0.980748387096774
+"lh_parsopercularis",NA,"SA","Psychosis - CHR-NC",1
+"lh_parsopercularis",NA,"SA","Other Dev.",1
+"lh_parsorbitalis",-0.018,"SA","AD",0.672041739130435
+"lh_parsorbitalis",0.055,"SA","ADHD",0.393058461538462
+"lh_parsorbitalis",-0.039,"SA","ASD",0.340657777777778
+"lh_parsorbitalis",0.015,"SA","SCZ",0.919765333333333
+"lh_parsorbitalis",0.037,"SA","MDD",0.67064
+"lh_parsorbitalis",0.003,"SA","MCI",0.975114666666667
+"lh_parsorbitalis",NA,"SA","Psychosis - CHR-NC",1
+"lh_parsorbitalis",NA,"SA","Other Dev.",1
+"lh_parstriangularis",-0.004,"SA","AD",0.919765333333333
+"lh_parstriangularis",-0.018,"SA","ADHD",0.815593846153846
+"lh_parstriangularis",-0.054,"SA","ASD",0.164251428571429
+"lh_parstriangularis",-0.061,"SA","SCZ",0.538354285714286
+"lh_parstriangularis",0.035,"SA","MDD",0.715392
+"lh_parstriangularis",0.051,"SA","MCI",0.0532266666666667
+"lh_parstriangularis",NA,"SA","Psychosis - CHR-NC",1
+"lh_parstriangularis",NA,"SA","Other Dev.",1
+"lh_postcentral",0.012,"SA","AD",0.728616296296296
+"lh_postcentral",-0.063,"SA","ADHD",0.27872
+"lh_postcentral",-0.013,"SA","ASD",0.766468571428571
+"lh_postcentral",0.036,"SA","SCZ",0.787751111111111
+"lh_postcentral",0.018,"SA","MDD",0.97804
+"lh_postcentral",0.071,"SA","MCI",0.03192
+"lh_postcentral",NA,"SA","Psychosis - CHR-NC",1
+"lh_postcentral",NA,"SA","Other Dev.",1
+"lh_posteriorcingulate",-0.045,"SA","AD",0.185803636363636
+"lh_posteriorcingulate",-0.018,"SA","ADHD",0.815593846153846
+"lh_posteriorcingulate",0.015,"SA","ASD",0.738699130434783
+"lh_posteriorcingulate",-0.086,"SA","SCZ",0.41516
+"lh_posteriorcingulate",0.044,"SA","MDD",0.67064
+"lh_posteriorcingulate",0.003,"SA","MCI",0.998
+"lh_posteriorcingulate",NA,"SA","Psychosis - CHR-NC",1
+"lh_posteriorcingulate",NA,"SA","Other Dev.",1
+"lh_precentral",-0.002,"SA","AD",0.923055483870968
+"lh_precentral",-0.005,"SA","ADHD",0.98603
+"lh_precentral",0.004,"SA","ASD",0.89022
+"lh_precentral",0.11,"SA","SCZ",0.149013333333333
+"lh_precentral",-0.008,"SA","MDD",0.97804
+"lh_precentral",-0.059,"SA","MCI",0.0425955555555556
+"lh_precentral",NA,"SA","Psychosis - CHR-NC",1
+"lh_precentral",NA,"SA","Other Dev.",1
+"lh_precuneus",-0.016,"SA","AD",0.672041739130435
+"lh_precuneus",0.064,"SA","ADHD",0.27872
+"lh_precuneus",0.007,"SA","ASD",0.796277333333333
+"lh_precuneus",-0.035,"SA","SCZ",0.793364210526316
+"lh_precuneus",-0.002,"SA","MDD",0.97804
+"lh_precuneus",-0.054,"SA","MCI",0.051104
+"lh_precuneus",NA,"SA","Psychosis - CHR-NC",1
+"lh_precuneus",NA,"SA","Other Dev.",1
+"lh_rostralanteriorcingulate",-0.09,"SA","AD",0.04256
+"lh_rostralanteriorcingulate",0.037,"SA","ADHD",0.709688888888889
+"lh_rostralanteriorcingulate",0.042,"SA","ASD",0.31936
+"lh_rostralanteriorcingulate",0.169,"SA","SCZ",0.06384
+"lh_rostralanteriorcingulate",-0.028,"SA","MDD",0.857691428571429
+"lh_rostralanteriorcingulate",-0.004,"SA","MCI",0.907431724137931
+"lh_rostralanteriorcingulate",NA,"SA","Psychosis - CHR-NC",1
+"lh_rostralanteriorcingulate",NA,"SA","Other Dev.",1
+"lh_rostralmiddlefrontal",-0.019,"SA","AD",0.672041739130435
+"lh_rostralmiddlefrontal",0.033,"SA","ADHD",0.709688888888889
+"lh_rostralmiddlefrontal",0.065,"SA","ASD",0.051072
+"lh_rostralmiddlefrontal",-0.027,"SA","SCZ",0.824538181818182
+"lh_rostralmiddlefrontal",0.016,"SA","MDD",0.97804
+"lh_rostralmiddlefrontal",0.067,"SA","MCI",0.01824
+"lh_rostralmiddlefrontal",NA,"SA","Psychosis - CHR-NC",1
+"lh_rostralmiddlefrontal",NA,"SA","Other Dev.",1
+"lh_superiorfrontal",-0.032,"SA","AD",0.375717647058824
+"lh_superiorfrontal",-0.024,"SA","ADHD",0.815593846153846
+"lh_superiorfrontal",0.035,"SA","ASD",0.346742857142857
+"lh_superiorfrontal",-0.031,"SA","SCZ",0.824538181818182
+"lh_superiorfrontal",0.003,"SA","MDD",0.97804
+"lh_superiorfrontal",-0.042,"SA","MCI",0.114290526315789
+"lh_superiorfrontal",NA,"SA","Psychosis - CHR-NC",1
+"lh_superiorfrontal",NA,"SA","Other Dev.",1
+"lh_superiorparietal",0.007,"SA","AD",0.919765333333333
+"lh_superiorparietal",0.041,"SA","ADHD",0.681301333333333
+"lh_superiorparietal",0.082,"SA","ASD",0.03192
+"lh_superiorparietal",-0.106,"SA","SCZ",0.149013333333333
+"lh_superiorparietal",0.006,"SA","MDD",0.97804
+"lh_superiorparietal",-0.049,"SA","MCI",0.0730057142857143
+"lh_superiorparietal",NA,"SA","Psychosis - CHR-NC",1
+"lh_superiorparietal",NA,"SA","Other Dev.",1
+"lh_superiortemporal",0.105,"SA","AD",0.04256
+"lh_superiortemporal",0.016,"SA","ADHD",0.815593846153846
+"lh_superiortemporal",0.049,"SA","ASD",0.127733333333333
+"lh_superiortemporal",0.169,"SA","SCZ",0.06384
+"lh_superiortemporal",-0.017,"SA","MDD",0.97804
+"lh_superiortemporal",-0.098,"SA","MCI",0.01824
+"lh_superiortemporal",NA,"SA","Psychosis - CHR-NC",1
+"lh_superiortemporal",NA,"SA","Other Dev.",1
+"lh_supramarginal",-0.017,"SA","AD",0.682941538461538
+"lh_supramarginal",0.074,"SA","ADHD",0.27872
+"lh_supramarginal",-0.019,"SA","ASD",0.621309090909091
+"lh_supramarginal",0.064,"SA","SCZ",0.510986666666667
+"lh_supramarginal",0.026,"SA","MDD",0.857691428571429
+"lh_supramarginal",0.045,"SA","MCI",0.0976941176470588
+"lh_supramarginal",NA,"SA","Psychosis - CHR-NC",1
+"lh_supramarginal",NA,"SA","Other Dev.",1
+"lh_temporalpole",0.055,"SA","AD",0.127744
+"lh_temporalpole",0.002,"SA","ADHD",0.98603
+"lh_temporalpole",-0.03,"SA","ASD",0.450475789473684
+"lh_temporalpole",-0.012,"SA","SCZ",0.919765333333333
+"lh_temporalpole",0.017,"SA","MDD",0.97804
+"lh_temporalpole",0.037,"SA","MCI",0.127740952380952
+"lh_temporalpole",NA,"SA","Psychosis - CHR-NC",1
+"lh_temporalpole",NA,"SA","Other Dev.",1
+"lh_transversetemporal",0.038,"SA","AD",0.31024
+"lh_transversetemporal",-0.087,"SA","ADHD",0.255488
+"lh_transversetemporal",0.011,"SA","ASD",0.766468571428571
+"lh_transversetemporal",-0.001,"SA","SCZ",0.998
+"lh_transversetemporal",-0.009,"SA","MDD",0.97804
+"lh_transversetemporal",-0.019,"SA","MCI",0.585493333333333
+"lh_transversetemporal",NA,"SA","Psychosis - CHR-NC",1
+"lh_transversetemporal",NA,"SA","Other Dev.",1
+"lh_bankssts",0.059,"GM","AD",0.0621055555555556
+"lh_bankssts",0.007,"GM","ADHD",0.80545294117647
+"lh_bankssts",0.034,"GM","ASD",0.370558695652174
+"lh_bankssts",-0.012,"GM","SCZ",0.777781666666667
+"lh_bankssts",-0.019,"GM","MDD",0.96873
+"lh_bankssts",0.099,"GM","MCI",0.0107423076923077
+"lh_bankssts",-0.13,"GM","Psychosis - CHR-NC",0.00607173913043478
+"lh_bankssts",NA,"GM","Other Dev.",1
+"lh_caudalanteriorcingulate",0.002,"GM","AD",0.92216
+"lh_caudalanteriorcingulate",-0.015,"GM","ADHD",0.80545294117647
+"lh_caudalanteriorcingulate",0.031,"GM","ASD",0.370265
+"lh_caudalanteriorcingulate",0.053,"GM","SCZ",0.20625
+"lh_caudalanteriorcingulate",0.018,"GM","MDD",0.96873
+"lh_caudalanteriorcingulate",0.006,"GM","MCI",0.789013235294118
+"lh_caudalanteriorcingulate",0.046,"GM","Psychosis - CHR-NC",0.27461724137931
+"lh_caudalanteriorcingulate",NA,"GM","Other Dev.",1
+"lh_caudalmiddlefrontal",-0.028,"GM","AD",0.375034210526316
+"lh_caudalmiddlefrontal",-0.026,"GM","ADHD",0.648298
+"lh_caudalmiddlefrontal",0.039,"GM","ASD",0.270703125
+"lh_caudalmiddlefrontal",0.072,"GM","SCZ",0.0986176470588235
+"lh_caudalmiddlefrontal",-0.001,"GM","MDD",0.998
+"lh_caudalmiddlefrontal",-0.052,"GM","MCI",0.0220684210526316
+"lh_caudalmiddlefrontal",-0.219,"GM","Psychosis - CHR-NC",0.00607173913043478
+"lh_caudalmiddlefrontal",NA,"GM","Other Dev.",1
+"lh_cuneus",-0.084,"GM","AD",0.01995
+"lh_cuneus",-0.063,"GM","ADHD",0.3493
+"lh_cuneus",0.05,"GM","ASD",0.11975
+"lh_cuneus",0.122,"GM","SCZ",0.01995
+"lh_cuneus",0.001,"GM","MDD",0.998
+"lh_cuneus",-0.099,"GM","MCI",0.0107423076923077
+"lh_cuneus",0.32,"GM","Psychosis - CHR-NC",0.00607173913043478
+"lh_cuneus",NA,"GM","Other Dev.",1
+"lh_entorhinal",0.109,"GM","AD",0.01995
+"lh_entorhinal",0.086,"GM","ADHD",0.279475
+"lh_entorhinal",0.081,"GM","ASD",0.023275
+"lh_entorhinal",0.164,"GM","SCZ",0.01995
+"lh_entorhinal",-0.002,"GM","MDD",0.998
+"lh_entorhinal",0.041,"GM","MCI",0.134346153846154
+"lh_entorhinal",0.147,"GM","Psychosis - CHR-NC",0.00607173913043478
+"lh_entorhinal",NA,"GM","Other Dev.",1
+"lh_frontalpole",-0.003,"GM","AD",0.92216
+"lh_frontalpole",0.04,"GM","ADHD",0.648298
+"lh_frontalpole",0.027,"GM","ASD",0.45829
+"lh_frontalpole",-0.108,"GM","SCZ",0.01995
+"lh_frontalpole",0,"GM","MDD",0.998
+"lh_frontalpole",0.008,"GM","MCI",0.6986
+"lh_frontalpole",-0.029,"GM","Psychosis - CHR-NC",0.428481666666667
+"lh_frontalpole",NA,"GM","Other Dev.",1
+"lh_fusiform",-0.036,"GM","AD",0.279436111111111
+"lh_fusiform",0.115,"GM","ADHD",0.13965
+"lh_fusiform",0.162,"GM","ASD",0.023275
+"lh_fusiform",-0.153,"GM","SCZ",0.01995
+"lh_fusiform",-0.025,"GM","MDD",0.96873
+"lh_fusiform",-0.061,"GM","MCI",0.0279475
+"lh_fusiform",-0.018,"GM","Psychosis - CHR-NC",0.6418453125
+"lh_fusiform",NA,"GM","Other Dev.",1
+"lh_HEMI",0.045,"GM","AD",0.13041
+"lh_HEMI",-0.012,"GM","ADHD",0.80545294117647
+"lh_HEMI",0.098,"GM","ASD",0.023275
+"lh_HEMI",-0.087,"GM","SCZ",0.0349416666666667
+"lh_HEMI",-0.001,"GM","MDD",0.998
+"lh_HEMI",0.001,"GM","MCI",0.998
+"lh_HEMI",-0.232,"GM","Psychosis - CHR-NC",0.00607173913043478
+"lh_HEMI",NA,"GM","Other Dev.",1
+"lh_inferiorparietal",0.014,"GM","AD",0.675313333333333
+"lh_inferiorparietal",-0.079,"GM","ADHD",0.3493
+"lh_inferiorparietal",-0.027,"GM","ASD",0.4790375
+"lh_inferiorparietal",-0.089,"GM","SCZ",0.02793
+"lh_inferiorparietal",-0.008,"GM","MDD",0.998
+"lh_inferiorparietal",0.037,"GM","MCI",0.10619
+"lh_inferiorparietal",0.013,"GM","Psychosis - CHR-NC",0.809560294117647
+"lh_inferiorparietal",NA,"GM","Other Dev.",1
+"lh_inferiortemporal",0.066,"GM","AD",0.0349125
+"lh_inferiortemporal",0.022,"GM","ADHD",0.724474074074074
+"lh_inferiortemporal",-0.006,"GM","ASD",0.770583333333333
+"lh_inferiortemporal",-0.139,"GM","SCZ",0.01995
+"lh_inferiortemporal",0.004,"GM","MDD",0.998
+"lh_inferiortemporal",0.019,"GM","MCI",0.40985
+"lh_inferiortemporal",-0.103,"GM","Psychosis - CHR-NC",0.0161269230769231
+"lh_inferiortemporal",NA,"GM","Other Dev.",1
+"lh_insula",-0.049,"GM","AD",0.11975
+"lh_insula",-0.04,"GM","ADHD",0.648298
+"lh_insula",-0.027,"GM","ASD",0.372589583333333
+"lh_insula",-0.139,"GM","SCZ",0.02793
+"lh_insula",0,"GM","MDD",0.998
+"lh_insula",0.09,"GM","MCI",0.0107423076923077
+"lh_insula",-0.38,"GM","Psychosis - CHR-NC",0.00607173913043478
+"lh_insula",NA,"GM","Other Dev.",1
+"lh_isthmuscingulate",-0.052,"GM","AD",0.116433333333333
+"lh_isthmuscingulate",-0.039,"GM","ADHD",0.648298
+"lh_isthmuscingulate",-0.031,"GM","ASD",0.370265
+"lh_isthmuscingulate",0.023,"GM","SCZ",0.677898148148148
+"lh_isthmuscingulate",-0.007,"GM","MDD",0.998
+"lh_isthmuscingulate",-0.039,"GM","MCI",0.104795833333333
+"lh_isthmuscingulate",-0.245,"GM","Psychosis - CHR-NC",0.00607173913043478
+"lh_isthmuscingulate",NA,"GM","Other Dev.",1
+"lh_lateraloccipital",-0.03,"GM","AD",0.379233333333333
+"lh_lateraloccipital",-0.026,"GM","ADHD",0.650232692307692
+"lh_lateraloccipital",0.028,"GM","ASD",0.370558695652174
+"lh_lateraloccipital",-0.079,"GM","SCZ",0.06985
+"lh_lateraloccipital",0.023,"GM","MDD",0.96873
+"lh_lateraloccipital",-0.121,"GM","MCI",0.0107423076923077
+"lh_lateraloccipital",-0.062,"GM","Psychosis - CHR-NC",0.134542592592593
+"lh_lateraloccipital",NA,"GM","Other Dev.",1
+"lh_lateralorbitofrontal",0.053,"GM","AD",0.06986
+"lh_lateralorbitofrontal",0.02,"GM","ADHD",0.80545294117647
+"lh_lateralorbitofrontal",-0.02,"GM","ASD",0.481793103448276
+"lh_lateralorbitofrontal",-0.036,"GM","SCZ",0.457275
+"lh_lateralorbitofrontal",0.017,"GM","MDD",0.96873
+"lh_lateralorbitofrontal",-0.021,"GM","MCI",0.404708620689655
+"lh_lateralorbitofrontal",0.174,"GM","Psychosis - CHR-NC",0.00607173913043478
+"lh_lateralorbitofrontal",NA,"GM","Other Dev.",1
+"lh_lingual",0.02,"GM","AD",0.5289375
+"lh_lingual",0.036,"GM","ADHD",0.648298
+"lh_lingual",0.053,"GM","ASD",0.107476923076923
+"lh_lingual",-0.012,"GM","SCZ",0.8295875
+"lh_lingual",-0.002,"GM","MDD",0.998
+"lh_lingual",0.077,"GM","MCI",0.0107423076923077
+"lh_lingual",-0.116,"GM","Psychosis - CHR-NC",0.00607173913043478
+"lh_lingual",NA,"GM","Other Dev.",1
+"lh_medialorbitofrontal",0.072,"GM","AD",0.01995
+"lh_medialorbitofrontal",0.032,"GM","ADHD",0.648298
+"lh_medialorbitofrontal",-0.054,"GM","ASD",0.107476923076923
+"lh_medialorbitofrontal",-0.025,"GM","SCZ",0.677898148148148
+"lh_medialorbitofrontal",0.005,"GM","MDD",0.998
+"lh_medialorbitofrontal",-0.012,"GM","MCI",0.6200140625
+"lh_medialorbitofrontal",0.104,"GM","Psychosis - CHR-NC",0.011172
+"lh_medialorbitofrontal",NA,"GM","Other Dev.",1
+"lh_middletemporal",0.103,"GM","AD",0.01995
+"lh_middletemporal",0.007,"GM","ADHD",0.85429
+"lh_middletemporal",0.111,"GM","ASD",0.023275
+"lh_middletemporal",0.062,"GM","SCZ",0.20625
+"lh_middletemporal",-0.02,"GM","MDD",0.96873
+"lh_middletemporal",0.065,"GM","MCI",0.0164294117647059
+"lh_middletemporal",-0.005,"GM","Psychosis - CHR-NC",0.8503
+"lh_middletemporal",NA,"GM","Other Dev.",1
+"lh_paracentral",-0.128,"GM","AD",0.01995
+"lh_paracentral",-0.032,"GM","ADHD",0.648298
+"lh_paracentral",0.041,"GM","ASD",0.167673333333333
+"lh_paracentral",-0.027,"GM","SCZ",0.670656
+"lh_paracentral",-0.033,"GM","MDD",0.6986
+"lh_paracentral",-0.078,"GM","MCI",0.0107423076923077
+"lh_paracentral",-0.029,"GM","Psychosis - CHR-NC",0.486770967741936
+"lh_paracentral",NA,"GM","Other Dev.",1
+"lh_parahippocampal",0.03,"GM","AD",0.379233333333333
+"lh_parahippocampal",0.028,"GM","ADHD",0.648298
+"lh_parahippocampal",0.012,"GM","ASD",0.6724046875
+"lh_parahippocampal",-0.074,"GM","SCZ",0.0745266666666667
+"lh_parahippocampal",-0.053,"GM","MDD",0.4193
+"lh_parahippocampal",0.091,"GM","MCI",0.0107423076923077
+"lh_parahippocampal",-0.152,"GM","Psychosis - CHR-NC",0.00607173913043478
+"lh_parahippocampal",NA,"GM","Other Dev.",1
+"lh_parsopercularis",-0.005,"GM","AD",0.864521875
+"lh_parsopercularis",-0.01,"GM","ADHD",0.80545294117647
+"lh_parsopercularis",0.054,"GM","ASD",0.107476923076923
+"lh_parsopercularis",-0.071,"GM","SCZ",0.100916666666667
+"lh_parsopercularis",0.029,"GM","MDD",0.6986
+"lh_parsopercularis",-0.066,"GM","MCI",0.0164294117647059
+"lh_parsopercularis",-0.173,"GM","Psychosis - CHR-NC",0.00607173913043478
+"lh_parsopercularis",NA,"GM","Other Dev.",1
+"lh_parsorbitalis",0.016,"GM","AD",0.602241379310345
+"lh_parsorbitalis",0.06,"GM","ADHD",0.3493
+"lh_parsorbitalis",-0.054,"GM","ASD",0.107476923076923
+"lh_parsorbitalis",-0.007,"GM","SCZ",0.863725757575758
+"lh_parsorbitalis",0.042,"GM","MDD",0.512283333333333
+"lh_parsorbitalis",-0.027,"GM","MCI",0.3343375
+"lh_parsorbitalis",-0.245,"GM","Psychosis - CHR-NC",0.00607173913043478
+"lh_parsorbitalis",NA,"GM","Other Dev.",1
+"lh_parstriangularis",0.038,"GM","AD",0.2183125
+"lh_parstriangularis",0.029,"GM","ADHD",0.648298
+"lh_parstriangularis",-0.012,"GM","ASD",0.633395
+"lh_parstriangularis",-0.105,"GM","SCZ",0.01995
+"lh_parstriangularis",-0.003,"GM","MDD",0.998
+"lh_parstriangularis",0.109,"GM","MCI",0.0107423076923077
+"lh_parstriangularis",0.174,"GM","Psychosis - CHR-NC",0.00607173913043478
+"lh_parstriangularis",NA,"GM","Other Dev.",1
+"lh_pericalcarine",-0.035,"GM","AD",0.246564705882353
+"lh_pericalcarine",-0.051,"GM","ADHD",0.6097
+"lh_pericalcarine",-0.031,"GM","ASD",0.370265
+"lh_pericalcarine",-0.012,"GM","SCZ",0.8295875
+"lh_pericalcarine",-0.012,"GM","MDD",0.998
+"lh_pericalcarine",-0.122,"GM","MCI",0.0107423076923077
+"lh_pericalcarine",0.357,"GM","Psychosis - CHR-NC",0.00607173913043478
+"lh_pericalcarine",NA,"GM","Other Dev.",1
+"lh_postcentral",0.023,"GM","AD",0.512309259259259
+"lh_postcentral",-0.074,"GM","ADHD",0.3493
+"lh_postcentral",0.054,"GM","ASD",0.107476923076923
+"lh_postcentral",0.085,"GM","SCZ",0.0429961538461539
+"lh_postcentral",-0.007,"GM","MDD",0.998
+"lh_postcentral",0.035,"GM","MCI",0.191462962962963
+"lh_postcentral",0.046,"GM","Psychosis - CHR-NC",0.234525
+"lh_postcentral",NA,"GM","Other Dev.",1
+"lh_posteriorcingulate",-0.072,"GM","AD",0.01995
+"lh_posteriorcingulate",-0.037,"GM","ADHD",0.648298
+"lh_posteriorcingulate",-0.014,"GM","ASD",0.6724046875
+"lh_posteriorcingulate",-0.013,"GM","SCZ",0.777781666666667
+"lh_posteriorcingulate",0.013,"GM","MDD",0.998
+"lh_posteriorcingulate",-0.045,"GM","MCI",0.103265217391304
+"lh_posteriorcingulate",0.238,"GM","Psychosis - CHR-NC",0.00607173913043478
+"lh_posteriorcingulate",NA,"GM","Other Dev.",1
+"lh_precentral",-0.023,"GM","AD",0.459914583333333
+"lh_precentral",-0.025,"GM","ADHD",0.648298
+"lh_precentral",0.061,"GM","ASD",0.107476923076923
+"lh_precentral",0.121,"GM","SCZ",0.0349416666666667
+"lh_precentral",-0.009,"GM","MDD",0.998
+"lh_precentral",-0.115,"GM","MCI",0.0107423076923077
+"lh_precentral",0.012,"GM","Psychosis - CHR-NC",0.783278787878788
+"lh_precentral",NA,"GM","Other Dev.",1
+"lh_precuneus",0.009,"GM","AD",0.851843548387097
+"lh_precuneus",0.03,"GM","ADHD",0.648298
+"lh_precuneus",0.029,"GM","ASD",0.370558695652174
+"lh_precuneus",0.057,"GM","SCZ",0.20625
+"lh_precuneus",-0.019,"GM","MDD",0.96873
+"lh_precuneus",-0.057,"GM","MCI",0.0220684210526316
+"lh_precuneus",-0.656,"GM","Psychosis - CHR-NC",0.00607173913043478
+"lh_precuneus",NA,"GM","Other Dev.",1
+"lh_rostralanteriorcingulate",-0.029,"GM","AD",0.387402272727273
+"lh_rostralanteriorcingulate",0.013,"GM","ADHD",0.80545294117647
+"lh_rostralanteriorcingulate",0.072,"GM","ASD",0.023275
+"lh_rostralanteriorcingulate",-0.003,"GM","SCZ",0.92216
+"lh_rostralanteriorcingulate",-0.014,"GM","MDD",0.998
+"lh_rostralanteriorcingulate",-0.016,"GM","MCI",0.482266129032258
+"lh_rostralanteriorcingulate",-0.155,"GM","Psychosis - CHR-NC",0.00607173913043478
+"lh_rostralanteriorcingulate",NA,"GM","Other Dev.",1
+"lh_rostralmiddlefrontal",0.021,"GM","AD",0.512309259259259
+"lh_rostralmiddlefrontal",0.017,"GM","ADHD",0.80545294117647
+"lh_rostralmiddlefrontal",-0.002,"GM","ASD",0.87824
+"lh_rostralmiddlefrontal",-0.064,"GM","SCZ",0.096053125
+"lh_rostralmiddlefrontal",-0.006,"GM","MDD",0.998
+"lh_rostralmiddlefrontal",0.062,"GM","MCI",0.0164294117647059
+"lh_rostralmiddlefrontal",0.152,"GM","Psychosis - CHR-NC",0.00607173913043478
+"lh_rostralmiddlefrontal",NA,"GM","Other Dev.",1
+"lh_superiorfrontal",-0.002,"GM","AD",0.92216
+"lh_superiorfrontal",-0.056,"GM","ADHD",0.527838888888889
+"lh_superiorfrontal",0.053,"GM","ASD",0.107476923076923
+"lh_superiorfrontal",-0.01,"GM","SCZ",0.871201470588235
+"lh_superiorfrontal",0.019,"GM","MDD",0.96873
+"lh_superiorfrontal",-0.074,"GM","MCI",0.0164294117647059
+"lh_superiorfrontal",-0.307,"GM","Psychosis - CHR-NC",0.00607173913043478
+"lh_superiorfrontal",NA,"GM","Other Dev.",1
+"lh_superiorparietal",0.044,"GM","AD",0.11975
+"lh_superiorparietal",0.034,"GM","ADHD",0.648298
+"lh_superiorparietal",0.114,"GM","ASD",0.023275
+"lh_superiorparietal",-0.014,"GM","SCZ",0.777781666666667
+"lh_superiorparietal",0.033,"GM","MDD",0.6986
+"lh_superiorparietal",-0.065,"GM","MCI",0.0107423076923077
+"lh_superiorparietal",-0.113,"GM","Psychosis - CHR-NC",0.00607173913043478
+"lh_superiorparietal",NA,"GM","Other Dev.",1
+"lh_superiortemporal",0.149,"GM","AD",0.01995
+"lh_superiortemporal",-0.055,"GM","ADHD",0.60081
+"lh_superiortemporal",0.038,"GM","ASD",0.304088235294118
+"lh_superiortemporal",0.02,"GM","SCZ",0.669491666666667
+"lh_superiortemporal",-0.023,"GM","MDD",0.96873
+"lh_superiortemporal",0.103,"GM","MCI",0.0107423076923077
+"lh_superiortemporal",-0.121,"GM","Psychosis - CHR-NC",0.00607173913043478
+"lh_superiortemporal",NA,"GM","Other Dev.",1
+"lh_supramarginal",0.02,"GM","AD",0.512309259259259
+"lh_supramarginal",0.062,"GM","ADHD",0.3493
+"lh_supramarginal",-0.006,"GM","ASD",0.87824
+"lh_supramarginal",-0.027,"GM","SCZ",0.643923913043478
+"lh_supramarginal",0.043,"GM","MDD",0.512283333333333
+"lh_supramarginal",0.094,"GM","MCI",0.0107423076923077
+"lh_supramarginal",-0.114,"GM","Psychosis - CHR-NC",0.011172
+"lh_supramarginal",NA,"GM","Other Dev.",1
+"lh_temporalpole",-0.048,"GM","AD",0.0889
+"lh_temporalpole",0.029,"GM","ADHD",0.648298
+"lh_temporalpole",-0.022,"GM","ASD",0.4790375
+"lh_temporalpole",0.092,"GM","SCZ",0.02793
+"lh_temporalpole",0.006,"GM","MDD",0.998
+"lh_temporalpole",-0.044,"GM","MCI",0.0825681818181818
+"lh_temporalpole",0.316,"GM","Psychosis - CHR-NC",0.00607173913043478
+"lh_temporalpole",NA,"GM","Other Dev.",1
+"lh_transversetemporal",-0.027,"GM","AD",0.394860869565217
+"lh_transversetemporal",-0.072,"GM","ADHD",0.3493
+"lh_transversetemporal",0.022,"GM","ASD",0.4790375
+"lh_transversetemporal",-0.114,"GM","SCZ",0.01995
+"lh_transversetemporal",-0.002,"GM","MDD",0.998
+"lh_transversetemporal",-0.045,"GM","MCI",0.0532333333333333
+"lh_transversetemporal",-0.254,"GM","Psychosis - CHR-NC",0.00607173913043478
+"lh_transversetemporal",NA,"GM","Other Dev.",1
+"lh_bankssts",-0.007,"CT","AD",0.896914516129032
+"lh_bankssts",0.058,"CT","ADHD",0.543355555555556
+"lh_bankssts",-0.029,"CT","ASD",0.3493
+"lh_bankssts",0.106,"CT","SCZ",0.11975
+"lh_bankssts",-0.016,"CT","MDD",0.6853
+"lh_bankssts",0.093,"CT","MCI",0.013965
+"lh_bankssts",NA,"CT","Psychosis - CHR-NC",1
+"lh_bankssts",NA,"CT","Other Dev.",1
+"lh_caudalanteriorcingulate",-0.035,"CT","AD",0.3056375
+"lh_caudalanteriorcingulate",-0.014,"CT","ADHD",0.791746666666667
+"lh_caudalanteriorcingulate",-0.055,"CT","ASD",0.083825
+"lh_caudalanteriorcingulate",0.129,"CT","SCZ",0.0931
+"lh_caudalanteriorcingulate",0.034,"CT","MDD",0.342936363636364
+"lh_caudalanteriorcingulate",-0.084,"CT","MCI",0.013965
+"lh_caudalanteriorcingulate",NA,"CT","Psychosis - CHR-NC",1
+"lh_caudalanteriorcingulate",NA,"CT","Other Dev.",1
+"lh_caudalmiddlefrontal",-0.002,"CT","AD",0.98603
+"lh_caudalmiddlefrontal",0.042,"CT","ADHD",0.543355555555556
+"lh_caudalmiddlefrontal",-0.062,"CT","ASD",0.0399
+"lh_caudalmiddlefrontal",0.064,"CT","SCZ",0.370265
+"lh_caudalmiddlefrontal",-0.004,"CT","MDD",0.91640294117647
+"lh_caudalmiddlefrontal",0.012,"CT","MCI",0.647371666666667
+"lh_caudalmiddlefrontal",NA,"CT","Psychosis - CHR-NC",1
+"lh_caudalmiddlefrontal",NA,"CT","Other Dev.",1
+"lh_cuneus",0.025,"CT","AD",0.539827272727273
+"lh_cuneus",-0.023,"CT","ADHD",0.677101923076923
+"lh_cuneus",-0.051,"CT","ASD",0.16965
+"lh_cuneus",-0.071,"CT","SCZ",0.316703333333333
+"lh_cuneus",0.007,"CT","MDD",0.8834
+"lh_cuneus",-0.093,"CT","MCI",0.013965
+"lh_cuneus",NA,"CT","Psychosis - CHR-NC",1
+"lh_cuneus",NA,"CT","Other Dev.",1
+"lh_entorhinal",0.054,"CT","AD",0.10478125
+"lh_entorhinal",0.059,"CT","ADHD",0.543355555555556
+"lh_entorhinal",0.047,"CT","ASD",0.104795833333333
+"lh_entorhinal",-0.028,"CT","SCZ",0.679325862068966
+"lh_entorhinal",-0.065,"CT","MDD",0.13965
+"lh_entorhinal",0.073,"CT","MCI",0.013965
+"lh_entorhinal",NA,"CT","Psychosis - CHR-NC",1
+"lh_entorhinal",NA,"CT","Other Dev.",1
+"lh_frontalpole",0.041,"CT","AD",0.25795
+"lh_frontalpole",0.005,"CT","ADHD",0.939940909090909
+"lh_frontalpole",0.015,"CT","ASD",0.652026666666667
+"lh_frontalpole",-0.077,"CT","SCZ",0.338265789473684
+"lh_frontalpole",-0.007,"CT","MDD",0.8834
+"lh_frontalpole",-0.041,"CT","MCI",0.0731833333333333
+"lh_frontalpole",NA,"CT","Psychosis - CHR-NC",1
+"lh_frontalpole",NA,"CT","Other Dev.",1
+"lh_fusiform",-0.001,"CT","AD",0.98603
+"lh_fusiform",0.055,"CT","ADHD",0.543355555555556
+"lh_fusiform",0.031,"CT","ASD",0.3493
+"lh_fusiform",-0.076,"CT","SCZ",0.316703333333333
+"lh_fusiform",-0.035,"CT","MDD",0.335335
+"lh_fusiform",0.032,"CT","MCI",0.188084615384615
+"lh_fusiform",NA,"CT","Psychosis - CHR-NC",1
+"lh_fusiform",NA,"CT","Other Dev.",1
+"lh_HEMI",0.03,"CT","AD",0.338265789473684
+"lh_HEMI",0.025,"CT","ADHD",0.7534875
+"lh_HEMI",0.015,"CT","ASD",0.652026666666667
+"lh_HEMI",-0.024,"CT","SCZ",0.735863333333333
+"lh_HEMI",-0.037,"CT","MDD",0.326005555555556
+"lh_HEMI",0.042,"CT","MCI",0.0731833333333333
+"lh_HEMI",NA,"CT","Psychosis - CHR-NC",1
+"lh_HEMI",NA,"CT","Other Dev.",1
+"lh_inferiorparietal",-0.039,"CT","AD",0.2994
+"lh_inferiorparietal",0.044,"CT","ADHD",0.543355555555556
+"lh_inferiorparietal",0.015,"CT","ASD",0.652026666666667
+"lh_inferiorparietal",0.02,"CT","SCZ",0.830107352941176
+"lh_inferiorparietal",0.024,"CT","MDD",0.576340625
+"lh_inferiorparietal",0.01,"CT","MCI",0.71663064516129
+"lh_inferiorparietal",NA,"CT","Psychosis - CHR-NC",1
+"lh_inferiorparietal",NA,"CT","Other Dev.",1
+"lh_inferiortemporal",0.009,"CT","AD",0.896914516129032
+"lh_inferiortemporal",-0.008,"CT","ADHD",0.87325
+"lh_inferiortemporal",0.128,"CT","ASD",0.023275
+"lh_inferiortemporal",-0.057,"CT","SCZ",0.3859
+"lh_inferiortemporal",-0.004,"CT","MDD",0.8834
+"lh_inferiortemporal",0.039,"CT","MCI",0.116433333333333
+"lh_inferiortemporal",NA,"CT","Psychosis - CHR-NC",1
+"lh_inferiortemporal",NA,"CT","Other Dev.",1
+"lh_insula",-0.071,"CT","AD",0.05586
+"lh_insula",0.093,"CT","ADHD",0.20965
+"lh_insula",0.131,"CT","ASD",0.023275
+"lh_insula",0.015,"CT","SCZ",0.830107352941176
+"lh_insula",-0.041,"CT","MDD",0.326005555555556
+"lh_insula",-0.093,"CT","MCI",0.013965
+"lh_insula",NA,"CT","Psychosis - CHR-NC",1
+"lh_insula",NA,"CT","Other Dev.",1
+"lh_isthmuscingulate",-0.06,"CT","AD",0.0998
+"lh_isthmuscingulate",-0.058,"CT","ADHD",0.543355555555556
+"lh_isthmuscingulate",-0.011,"CT","ASD",0.721135483870968
+"lh_isthmuscingulate",-0.128,"CT","SCZ",0.0931583333333333
+"lh_isthmuscingulate",-0.006,"CT","MDD",0.8834
+"lh_isthmuscingulate",-0.064,"CT","MCI",0.013965
+"lh_isthmuscingulate",NA,"CT","Psychosis - CHR-NC",1
+"lh_isthmuscingulate",NA,"CT","Other Dev.",1
+"lh_lateraloccipital",0.032,"CT","AD",0.338265789473684
+"lh_lateraloccipital",-0.011,"CT","ADHD",0.793246774193548
+"lh_lateraloccipital",-0.059,"CT","ASD",0.0524125
+"lh_lateraloccipital",-0.078,"CT","SCZ",0.30485
+"lh_lateraloccipital",0.029,"CT","MDD",0.343915384615385
+"lh_lateraloccipital",-0.043,"CT","MCI",0.0825681818181818
+"lh_lateraloccipital",NA,"CT","Psychosis - CHR-NC",1
+"lh_lateraloccipital",NA,"CT","Other Dev.",1
+"lh_lateralorbitofrontal",0.026,"CT","AD",0.5379325
+"lh_lateralorbitofrontal",0.021,"CT","ADHD",0.719301851851852
+"lh_lateralorbitofrontal",0.006,"CT","ASD",0.826
+"lh_lateralorbitofrontal",0.07,"CT","SCZ",0.338265789473684
+"lh_lateralorbitofrontal",0,"CT","MDD",0.95808
+"lh_lateralorbitofrontal",0.058,"CT","MCI",0.0214846153846154
+"lh_lateralorbitofrontal",NA,"CT","Psychosis - CHR-NC",1
+"lh_lateralorbitofrontal",NA,"CT","Other Dev.",1
+"lh_lingual",0.016,"CT","AD",0.709786
+"lh_lingual",0.074,"CT","ADHD",0.44709
+"lh_lingual",0.032,"CT","ASD",0.317545454545455
+"lh_lingual",-0.087,"CT","SCZ",0.30485
+"lh_lingual",0.036,"CT","MDD",0.326005555555556
+"lh_lingual",0.031,"CT","MCI",0.20182037037037
+"lh_lingual",NA,"CT","Psychosis - CHR-NC",1
+"lh_lingual",NA,"CT","Other Dev.",1
+"lh_medialorbitofrontal",0.069,"CT","AD",0.05586
+"lh_medialorbitofrontal",-0.041,"CT","ADHD",0.543355555555556
+"lh_medialorbitofrontal",-0.131,"CT","ASD",0.023275
+"lh_medialorbitofrontal",-0.139,"CT","SCZ",0.0931
+"lh_medialorbitofrontal",-0.008,"CT","MDD",0.8834
+"lh_medialorbitofrontal",0.026,"CT","MCI",0.2944125
+"lh_medialorbitofrontal",NA,"CT","Psychosis - CHR-NC",1
+"lh_medialorbitofrontal",NA,"CT","Other Dev.",1
+"lh_middletemporal",0.036,"CT","AD",0.3056375
+"lh_middletemporal",0.025,"CT","ADHD",0.677101923076923
+"lh_middletemporal",0.092,"CT","ASD",0.023275
+"lh_middletemporal",0.079,"CT","SCZ",0.30485
+"lh_middletemporal",-0.007,"CT","MDD",0.8834
+"lh_middletemporal",0.061,"CT","MCI",0.0214846153846154
+"lh_middletemporal",NA,"CT","Psychosis - CHR-NC",1
+"lh_middletemporal",NA,"CT","Other Dev.",1
+"lh_paracentral",-0.109,"CT","AD",0.04655
+"lh_paracentral",-0.047,"CT","ADHD",0.543355555555556
+"lh_paracentral",-0.11,"CT","ASD",0.023275
+"lh_paracentral",-0.155,"CT","SCZ",0.0931583333333333
+"lh_paracentral",-0.023,"CT","MDD",0.54026
+"lh_paracentral",-0.134,"CT","MCI",0.013965
+"lh_paracentral",NA,"CT","Psychosis - CHR-NC",1
+"lh_paracentral",NA,"CT","Other Dev.",1
+"lh_parahippocampal",0.052,"CT","AD",0.177831818181818
+"lh_parahippocampal",0.125,"CT","ADHD",0.13965
+"lh_parahippocampal",-0.036,"CT","ASD",0.287194444444444
+"lh_parahippocampal",0.046,"CT","SCZ",0.526642307692308
+"lh_parahippocampal",-0.017,"CT","MDD",0.6853
+"lh_parahippocampal",0.047,"CT","MCI",0.0731833333333333
+"lh_parahippocampal",NA,"CT","Psychosis - CHR-NC",1
+"lh_parahippocampal",NA,"CT","Other Dev.",1
+"lh_parsopercularis",-0.061,"CT","AD",0.0931583333333333
+"lh_parsopercularis",-0.042,"CT","ADHD",0.543355555555556
+"lh_parsopercularis",-0.007,"CT","ASD",0.826
+"lh_parsopercularis",-0.042,"CT","SCZ",0.526642307692308
+"lh_parsopercularis",0.008,"CT","MDD",0.8834
+"lh_parsopercularis",-0.02,"CT","MCI",0.409524137931034
+"lh_parsopercularis",NA,"CT","Psychosis - CHR-NC",1
+"lh_parsopercularis",NA,"CT","Other Dev.",1
+"lh_parsorbitalis",-0.008,"CT","AD",0.857596551724138
+"lh_parsorbitalis",-0.044,"CT","ADHD",0.543355555555556
+"lh_parsorbitalis",0.036,"CT","ASD",0.30605
+"lh_parsorbitalis",0.114,"CT","SCZ",0.0931583333333333
+"lh_parsorbitalis",-0.012,"CT","MDD",0.850469565217391
+"lh_parsorbitalis",0.01,"CT","MCI",0.7247953125
+"lh_parsorbitalis",NA,"CT","Psychosis - CHR-NC",1
+"lh_parsorbitalis",NA,"CT","Other Dev.",1
+"lh_parstriangularis",-0.009,"CT","AD",0.857596551724138
+"lh_parstriangularis",-0.063,"CT","ADHD",0.543355555555556
+"lh_parstriangularis",0.032,"CT","ASD",0.30605
+"lh_parstriangularis",-0.011,"CT","SCZ",0.830107352941176
+"lh_parstriangularis",-0.048,"CT","MDD",0.25151
+"lh_parstriangularis",-0.007,"CT","MCI",0.821882352941176
+"lh_parstriangularis",NA,"CT","Psychosis - CHR-NC",1
+"lh_parstriangularis",NA,"CT","Other Dev.",1
+"lh_pericalcarine",0.022,"CT","AD",0.539827272727273
+"lh_pericalcarine",0.027,"CT","ADHD",0.677101923076923
+"lh_pericalcarine",-0.025,"CT","ASD",0.363272
+"lh_pericalcarine",-0.079,"CT","SCZ",0.316703333333333
+"lh_pericalcarine",-0.015,"CT","MDD",0.641076470588235
+"lh_pericalcarine",-0.04,"CT","MCI",0.109352173913043
+"lh_pericalcarine",NA,"CT","Psychosis - CHR-NC",1
+"lh_pericalcarine",NA,"CT","Other Dev.",1
+"lh_postcentral",-0.001,"CT","AD",0.98603
+"lh_postcentral",-0.027,"CT","ADHD",0.677101923076923
+"lh_postcentral",0.015,"CT","ASD",0.652026666666667
+"lh_postcentral",0.066,"CT","SCZ",0.338265789473684
+"lh_postcentral",-0.018,"CT","MDD",0.6853
+"lh_postcentral",-0.057,"CT","MCI",0.02620625
+"lh_postcentral",NA,"CT","Psychosis - CHR-NC",1
+"lh_postcentral",NA,"CT","Other Dev.",1
+"lh_posteriorcingulate",-0.047,"CT","AD",0.177831818181818
+"lh_posteriorcingulate",-0.05,"CT","ADHD",0.543355555555556
+"lh_posteriorcingulate",-0.01,"CT","ASD",0.826
+"lh_posteriorcingulate",-0.076,"CT","SCZ",0.316703333333333
+"lh_posteriorcingulate",-0.007,"CT","MDD",0.8834
+"lh_posteriorcingulate",-0.055,"CT","MCI",0.0214846153846154
+"lh_posteriorcingulate",NA,"CT","Psychosis - CHR-NC",1
+"lh_posteriorcingulate",NA,"CT","Other Dev.",1
+"lh_precentral",0.012,"CT","AD",0.848672222222222
+"lh_precentral",0.015,"CT","ADHD",0.791746666666667
+"lh_precentral",-0.081,"CT","ASD",0.023275
+"lh_precentral",0.023,"CT","SCZ",0.739166129032258
+"lh_precentral",-0.055,"CT","MDD",0.139766666666667
+"lh_precentral",-0.053,"CT","MCI",0.0410941176470588
+"lh_precentral",NA,"CT","Psychosis - CHR-NC",1
+"lh_precentral",NA,"CT","Other Dev.",1
+"lh_precuneus",-0.005,"CT","AD",0.94311875
+"lh_precuneus",-0.005,"CT","ADHD",0.957497058823529
+"lh_precuneus",0.043,"CT","ASD",0.24451875
+"lh_precuneus",-0.04,"CT","SCZ",0.526642307692308
+"lh_precuneus",0.014,"CT","MDD",0.692252272727273
+"lh_precuneus",-0.058,"CT","MCI",0.02620625
+"lh_precuneus",NA,"CT","Psychosis - CHR-NC",1
+"lh_precuneus",NA,"CT","Other Dev.",1
+"lh_rostralanteriorcingulate",0.192,"CT","AD",0.04655
+"lh_rostralanteriorcingulate",-0.07,"CT","ADHD",0.44709
+"lh_rostralanteriorcingulate",-0.032,"CT","ASD",0.287194444444444
+"lh_rostralanteriorcingulate",0.171,"CT","SCZ",0.0931
+"lh_rostralanteriorcingulate",0.019,"CT","MDD",0.6853
+"lh_rostralanteriorcingulate",0.118,"CT","MCI",0.013965
+"lh_rostralanteriorcingulate",NA,"CT","Psychosis - CHR-NC",1
+"lh_rostralanteriorcingulate",NA,"CT","Other Dev.",1
+"lh_rostralmiddlefrontal",0.044,"CT","AD",0.244504166666667
+"lh_rostralmiddlefrontal",-0.026,"CT","ADHD",0.677101923076923
+"lh_rostralmiddlefrontal",-0.054,"CT","ASD",0.0889
+"lh_rostralmiddlefrontal",0.082,"CT","SCZ",0.30485
+"lh_rostralmiddlefrontal",-0.024,"CT","MDD",0.51895
+"lh_rostralmiddlefrontal",0.011,"CT","MCI",0.745171212121212
+"lh_rostralmiddlefrontal",NA,"CT","Psychosis - CHR-NC",1
+"lh_rostralmiddlefrontal",NA,"CT","Other Dev.",1
+"lh_superiorfrontal",0.018,"CT","AD",0.652035416666667
+"lh_superiorfrontal",0.084,"CT","ADHD",0.232866666666667
+"lh_superiorfrontal",-0.049,"CT","ASD",0.107476923076923
+"lh_superiorfrontal",0.034,"CT","SCZ",0.636507407407407
+"lh_superiorfrontal",-0.003,"CT","MDD",0.91640294117647
+"lh_superiorfrontal",-0.065,"CT","MCI",0.02620625
+"lh_superiorfrontal",NA,"CT","Psychosis - CHR-NC",1
+"lh_superiorfrontal",NA,"CT","Other Dev.",1
+"lh_superiorparietal",0.013,"CT","AD",0.746967307692308
+"lh_superiorparietal",0.001,"CT","ADHD",1
+"lh_superiorparietal",-0.059,"CT","ASD",0.0621055555555556
+"lh_superiorparietal",-0.009,"CT","SCZ",0.9022
+"lh_superiorparietal",0.034,"CT","MDD",0.326005555555556
+"lh_superiorparietal",-0.049,"CT","MCI",0.0465694444444444
+"lh_superiorparietal",NA,"CT","Psychosis - CHR-NC",1
+"lh_superiorparietal",NA,"CT","Other Dev.",1
+"lh_superiortemporal",0.03,"CT","AD",0.338265789473684
+"lh_superiortemporal",-0.039,"CT","ADHD",0.544176315789474
+"lh_superiortemporal",-0.021,"CT","ASD",0.575009615384615
+"lh_superiortemporal",-0.067,"CT","SCZ",0.338265789473684
+"lh_superiortemporal",-0.057,"CT","MDD",0.13965
+"lh_superiortemporal",0.065,"CT","MCI",0.013965
+"lh_superiortemporal",NA,"CT","Psychosis - CHR-NC",1
+"lh_superiortemporal",NA,"CT","Other Dev.",1
+"lh_supramarginal",0.083,"CT","AD",0.04655
+"lh_supramarginal",-0.037,"CT","ADHD",0.543355555555556
+"lh_supramarginal",0.031,"CT","ASD",0.30605
+"lh_supramarginal",0.047,"CT","SCZ",0.526642307692308
+"lh_supramarginal",0.032,"CT","MDD",0.343915384615385
+"lh_supramarginal",0.114,"CT","MCI",0.013965
+"lh_supramarginal",NA,"CT","Psychosis - CHR-NC",1
+"lh_supramarginal",NA,"CT","Other Dev.",1
+"lh_temporalpole",-0.043,"CT","AD",0.177831818181818
+"lh_temporalpole",0.027,"CT","ADHD",0.677101923076923
+"lh_temporalpole",0.043,"CT","ASD",0.186293333333333
+"lh_temporalpole",0.052,"CT","SCZ",0.482665909090909
+"lh_temporalpole",-0.05,"CT","MDD",0.17465
+"lh_temporalpole",-0.007,"CT","MCI",0.82635
+"lh_temporalpole",NA,"CT","Psychosis - CHR-NC",1
+"lh_temporalpole",NA,"CT","Other Dev.",1
+"lh_transversetemporal",-0.017,"CT","AD",0.652035416666667
+"lh_transversetemporal",0.034,"CT","ADHD",0.5518975
+"lh_transversetemporal",-0.001,"CT","ASD",0.93413
+"lh_transversetemporal",-0.03,"CT","SCZ",0.638725
+"lh_transversetemporal",0.003,"CT","MDD",0.91640294117647
+"lh_transversetemporal",0.033,"CT","MCI",0.178836
+"lh_transversetemporal",NA,"CT","Psychosis - CHR-NC",1
+"lh_transversetemporal",NA,"CT","Other Dev.",1
+"Right-Accumbens-area",0.033,"SUBC","AD",0.322902222222222
+"Right-Accumbens-area",-0.066,"SUBC","ADHD",0.242176666666667
+"Right-Accumbens-area",-0.124,"SUBC","ASD",0.01862
+"Right-Accumbens-area",-0.04,"SUBC","SCZ",0.402402
+"Right-Accumbens-area",0.001,"SUBC","MDD",0.98603
+"Right-Accumbens-area",0.152,"SUBC","MCI",0.00620666666666667
+"Right-Accumbens-area",-0.002,"SUBC","Psychosis - CHR-NC",1
+"Right-Accumbens-area",NA,"SUBC","Other Dev.",1
+"Right-Amygdala",0.182,"SUBC","AD",0.013965
+"Right-Amygdala",-0.058,"SUBC","ADHD",0.242176666666667
+"Right-Amygdala",-0.002,"SUBC","ASD",0.864123076923077
+"Right-Amygdala",0.088,"SUBC","SCZ",0.11179
+"Right-Amygdala",0.003,"SUBC","MDD",0.967292307692308
+"Right-Amygdala",0.133,"SUBC","MCI",0.00620666666666667
+"Right-Amygdala",-0.153,"SUBC","Psychosis - CHR-NC",0.01862
+"Right-Amygdala",NA,"SUBC","Other Dev.",1
+"Right-Caudate",0.021,"SUBC","AD",0.433136666666667
+"Right-Caudate",0.019,"SUBC","ADHD",0.888622
+"Right-Caudate",0.086,"SUBC","ASD",0.01862
+"Right-Caudate",0.066,"SUBC","SCZ",0.26082
+"Right-Caudate",0.035,"SUBC","MDD",0.31668
+"Right-Caudate",-0.025,"SUBC","MCI",0.300935384615385
+"Right-Caudate",-0.09,"SUBC","Psychosis - CHR-NC",0.06706
+"Right-Caudate",NA,"SUBC","Other Dev.",1
+"Right-Cerebellum-Cortex",-0.109,"SUBC","AD",0.013965
+"Right-Cerebellum-Cortex",-0.091,"SUBC","ADHD",0.05586
+"Right-Cerebellum-Cortex",0.012,"SUBC","ASD",0.83832
+"Right-Cerebellum-Cortex",-0.009,"SUBC","SCZ",0.75449
+"Right-Cerebellum-Cortex",0.01,"SUBC","MDD",0.967292307692308
+"Right-Cerebellum-Cortex",-0.042,"SUBC","MCI",0.065205
+"Right-Cerebellum-Cortex",-0.11,"SUBC","Psychosis - CHR-NC",0.02793
+"Right-Cerebellum-Cortex",NA,"SUBC","Other Dev.",1
+"Right-Cerebellum-White-Matter",-0.051,"SUBC","AD",0.06986
+"Right-Cerebellum-White-Matter",0.102,"SUBC","ADHD",0.05586
+"Right-Cerebellum-White-Matter",0.044,"SUBC","ASD",0.14903
+"Right-Cerebellum-White-Matter",0.04,"SUBC","SCZ",0.402402
+"Right-Cerebellum-White-Matter",0.011,"SUBC","MDD",0.967292307692308
+"Right-Cerebellum-White-Matter",-0.053,"SUBC","MCI",0.0203254545454545
+"Right-Cerebellum-White-Matter",-0.203,"SUBC","Psychosis - CHR-NC",0.01862
+"Right-Cerebellum-White-Matter",NA,"SUBC","Other Dev.",1
+"Right-choroid-plexus",0.05,"SUBC","AD",0.06986
+"Right-choroid-plexus",0.065,"SUBC","ADHD",0.242176666666667
+"Right-choroid-plexus",-0.042,"SUBC","ASD",0.14903
+"Right-choroid-plexus",-0.175,"SUBC","SCZ",0.05586
+"Right-choroid-plexus",-0.005,"SUBC","MDD",0.967292307692308
+"Right-choroid-plexus",-0.004,"SUBC","MCI",0.93812
+"Right-choroid-plexus",NA,"SUBC","Psychosis - CHR-NC",1
+"Right-choroid-plexus",NA,"SUBC","Other Dev.",1
+"Right-Hippocampus",-0.021,"SUBC","AD",0.433136666666667
+"Right-Hippocampus",-0.034,"SUBC","ADHD",0.6986
+"Right-Hippocampus",-0.01,"SUBC","ASD",0.83832
+"Right-Hippocampus",-0.036,"SUBC","SCZ",0.402402
+"Right-Hippocampus",0.005,"SUBC","MDD",0.967292307692308
+"Right-Hippocampus",0.067,"SUBC","MCI",0.00620666666666667
+"Right-Hippocampus",-0.065,"SUBC","Psychosis - CHR-NC",0.11976
+"Right-Hippocampus",NA,"SUBC","Other Dev.",1
+"Right-Inf-Lat-Vent",0.093,"SUBC","AD",0.013965
+"Right-Inf-Lat-Vent",-0.116,"SUBC","ADHD",0.0559066666666667
+"Right-Inf-Lat-Vent",-0.035,"SUBC","ASD",0.230545
+"Right-Inf-Lat-Vent",0.023,"SUBC","SCZ",0.576078461538462
+"Right-Inf-Lat-Vent",-0.005,"SUBC","MDD",0.967292307692308
+"Right-Inf-Lat-Vent",0.085,"SUBC","MCI",0.00620666666666667
+"Right-Inf-Lat-Vent",-0.014,"SUBC","Psychosis - CHR-NC",0.807838181818182
+"Right-Inf-Lat-Vent",NA,"SUBC","Other Dev.",1
+"Right-Lateral-Ventricle",-0.055,"SUBC","AD",0.06986
+"Right-Lateral-Ventricle",0.004,"SUBC","ADHD",0.98204
+"Right-Lateral-Ventricle",0.025,"SUBC","ASD",0.465733333333333
+"Right-Lateral-Ventricle",-0.052,"SUBC","SCZ",0.3465
+"Right-Lateral-Ventricle",0.013,"SUBC","MDD",0.967292307692308
+"Right-Lateral-Ventricle",-0.144,"SUBC","MCI",0.00620666666666667
+"Right-Lateral-Ventricle",-0.076,"SUBC","Psychosis - CHR-NC",0.11976
+"Right-Lateral-Ventricle",NA,"SUBC","Other Dev.",1
+"Right-Pallidum",-0.024,"SUBC","AD",0.433136666666667
+"Right-Pallidum",-0.004,"SUBC","ADHD",0.98204
+"Right-Pallidum",0.003,"SUBC","ASD",0.88623
+"Right-Pallidum",-0.034,"SUBC","SCZ",0.411536363636364
+"Right-Pallidum",0.007,"SUBC","MDD",0.967292307692308
+"Right-Pallidum",-0.102,"SUBC","MCI",0.00620666666666667
+"Right-Pallidum",0.022,"SUBC","Psychosis - CHR-NC",0.693014
+"Right-Pallidum",NA,"SUBC","Other Dev.",1
+"Right-Putamen",0.02,"SUBC","AD",0.447106153846154
+"Right-Putamen",-0.003,"SUBC","ADHD",0.98204
+"Right-Putamen",-0.041,"SUBC","ASD",0.16766
+"Right-Putamen",0.038,"SUBC","SCZ",0.402402
+"Right-Putamen",-0.049,"SUBC","MDD",0.31668
+"Right-Putamen",0.064,"SUBC","MCI",0.00620666666666667
+"Right-Putamen",-0.027,"SUBC","Psychosis - CHR-NC",0.693014
+"Right-Putamen",NA,"SUBC","Other Dev.",1
+"Right-Thalamus-Proper",0,"SUBC","AD",0.93014
+"Right-Thalamus-Proper",-0.012,"SUBC","ADHD",0.934856363636364
+"Right-Thalamus-Proper",0.096,"SUBC","ASD",0.01862
+"Right-Thalamus-Proper",0.033,"SUBC","SCZ",0.423815
+"Right-Thalamus-Proper",0.002,"SUBC","MDD",0.967292307692308
+"Right-Thalamus-Proper",0.116,"SUBC","MCI",0.00620666666666667
+"Right-Thalamus-Proper",-0.119,"SUBC","Psychosis - CHR-NC",0.01862
+"Right-Thalamus-Proper",NA,"SUBC","Other Dev.",1
+"Right-VentralDC",0.17,"SUBC","AD",0.013965
+"Right-VentralDC",-0.033,"SUBC","ADHD",0.6986
+"Right-VentralDC",-0.006,"SUBC","ASD",0.864123076923077
+"Right-VentralDC",-0.062,"SUBC","SCZ",0.27944
+"Right-VentralDC",0.039,"SUBC","MDD",0.31668
+"Right-VentralDC",0.067,"SUBC","MCI",0.011172
+"Right-VentralDC",0.048,"SUBC","Psychosis - CHR-NC",0.3073875
+"Right-VentralDC",NA,"SUBC","Other Dev.",1
+"Right-vessel",-0.073,"SUBC","AD",0.033544
+"Right-vessel",-0.019,"SUBC","ADHD",0.888622
+"Right-vessel",0.084,"SUBC","ASD",0.02793
+"Right-vessel",0.046,"SUBC","SCZ",0.402402
+"Right-vessel",-0.014,"SUBC","MDD",0.967292307692308
+"Right-vessel",-0.082,"SUBC","MCI",0.00620666666666667
+"Right-vessel",NA,"SUBC","Psychosis - CHR-NC",1
+"Right-vessel",NA,"SUBC","Other Dev.",1
