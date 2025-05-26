@@ -14,10 +14,13 @@
       - `milestones.csv`: Milestones of left/right regional brain development
       - `bootstrap.milestones.csv`: Boostrapped confidence intervals around milestones of left/right regional brain development
       - `regional.case.control.csv`: Left/right regional case-control differences in autism spectrum disorder, schizophrenia and Alzheimer's disease
+      - `asymmetry.lifespan.area.under.curve.csv`: Lifespan average area-under-the-curve of asymmetry
       - `asymmetry-epoch-area-under-curve.csv`: Area-under-the-curve of asymmetry by developmental epoch
       - `asymmetry.case.control.csv`: Asymmetry case-control differences in autism spectrum disorder, schizophrenia and Alzheimer's disease
       - `asymmetry.case.control.distribution.changes.csv`: Distribution changes in case centile scores, compared to controls
-      - `asymmetry-epoch-area-under-curve.csv`: Area-under-the-curve of asymmetry by developmental epoch
+      - `asymmetry.classes.csv`: Asignment of regions to their respective asymmetry class
+      - `LDSC-left-right-comparison.csv`: LDSC derived Left-right genetic correlation estimates
+      - `asymmetry.heritability.csv`: Heritability of asymmetry centile scores
 
 
 ## Plotting trajectories and Out-of-sample predictions
@@ -29,7 +32,10 @@ The following code reproduces key figures from Dorfschmidt et al., 2025:
 2. `999.02.milestones.interplay.R`
 3. `999.03.regional.case.control.R`
 4. `999.04.asymmetry.area.under.curve.R`
-5. `999.05.asymmetry.case.contro.distribution.changes.R`
+5. `999.05.asymmetry.case.control.distribution.changes.R`
+6. `999.06.asymmetry.classes.R`
+7. `999.07.left.right.genetic.correlation.R`
+8. `999.08.asymmetry.heritability.R`
 
 
 # Requirements
