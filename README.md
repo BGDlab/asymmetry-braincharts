@@ -13,13 +13,13 @@
  - `models-to-share/regional-models` contains the fit and bootstrap objects for left and right regional trajectories
  - `models-to-share/asymmetry-models` contains the fit and bootstrap objects for the asymmetry trajectories
  - `supplementary-tables` contains multiple tables, including:
-      - `supplementary-tables/milstones.csv`: Milestones of left/right regional brain development
-      - `supplementary-tables/bootstrap.milstones.csv`: Boostrapped confidence intervals around milestones of left/right regional brain development
-      - `supplementary-tables/regional.case.control.csv`: Left/right regional case-control differences in autism spectrum disorder, schizophrenia and Alzheimer's disease
-      - `supplementary-tables/asymmetry-epopch-area-under-curve.csv`: Area-under-the-curve of asymmetry by developmental epoch
-      - `supplementary-tables/asymmetry.case.control.csv`: Asymmetry case-control differences in autism spectrum disorder, schizophrenia and Alzheimer's disease
-      - `supplementary-tables/asymmetry.case.control.distribution.changes.csv`: Distribution changes in case centile scores, compared to controls
-      - `supplementary-tables/asymmetry-epopch-area-under-curve.csv`: Area-under-the-curve of asymmetry by developmental epoch
+      - `milestones.csv`: Milestones of left/right regional brain development
+      - `bootstrap.milestones.csv`: Boostrapped confidence intervals around milestones of left/right regional brain development
+      - `regional.case.control.csv`: Left/right regional case-control differences in autism spectrum disorder, schizophrenia and Alzheimer's disease
+      - `asymmetry-epoch-area-under-curve.csv`: Area-under-the-curve of asymmetry by developmental epoch
+      - `asymmetry.case.control.csv`: Asymmetry case-control differences in autism spectrum disorder, schizophrenia and Alzheimer's disease
+      - `asymmetry.case.control.distribution.changes.csv`: Distribution changes in case centile scores, compared to controls
+      - `asymmetry-epoch-area-under-curve.csv`: Area-under-the-curve of asymmetry by developmental epoch
 
 
 ## Plotting trajectories and Out-of-sample predictions
