@@ -1,4 +1,4 @@
-"label","cohensD","phenotype","Group2","pFDR.roi"
+"label","cohensD","phenotype","dx","pFDR.roi"
 "lh_bankssts",0.025,"SA","AD",0.532266666666667
 "lh_bankssts",0.008,"SA","ADHD",0.872187586206897
 "lh_bankssts",0.041,"SA","ASD",0.346742857142857

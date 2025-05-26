@@ -2,9 +2,10 @@ library(dplyr)
 library(ggseg)
 library(ggpubr)
 
-rm(list=ls())
-
+# Read in data
 DIFF.MILESTONES=read.csv('SHARE/bootstrap.milestones.csv')
+
+# Estimate 95% condifence intervals using bootstrap mean and standard deviation for each of three milestones
 DIFF.MILESTONES$CI.low.rotpeak =  DIFF.MILESTONES$mu.diff.rotpeak-DIFF.MILESTONES$sd.diff.rotpeak*1.96
 DIFF.MILESTONES$CI.high.rotpeak =  DIFF.MILESTONES$mu.diff.rotpeak+DIFF.MILESTONES$sd.diff.rotpeak*1.96
 DIFF.MILESTONES = DIFF.MILESTONES %>% group_by(phenotype,label) %>% mutate(sign.rotpeak=ifelse( (((CI.low.rotpeak < 0) & (CI.high.rotpeak < 0)) || 
@@ -20,8 +21,7 @@ DIFF.MILESTONES$CI.high.declinepeak =  DIFF.MILESTONES$mu.diff.declinepeak+DIFF.
 DIFF.MILESTONES = DIFF.MILESTONES %>% group_by(phenotype,label) %>% mutate(sign.declinepeak=ifelse( (((CI.low.declinepeak < 0) & (CI.high.declinepeak < 0)) || 
                                                                                                        ((CI.low.declinepeak > 0) & (CI.high.declinepeak > 0))), T,F))
 
-
-
+# Included below is examplery code of how to plot the bootstrapped differences in milestones for a single phenotype
 peakDiffBar = subset(DIFF.MILESTONES, phenotype =='GM')%>%
   ggplot(aes(x=diff.orig.zeropeak,y=reorder(label,diff.orig.zeropeak),color=sign.zeropeak))+
   geom_point()+
