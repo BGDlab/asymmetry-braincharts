@@ -18,9 +18,13 @@ This work is licensed under a
 (2) Produce a number of key figures published in Dorfschmidt et al. 2025, bioRxivs. 
 
 
+# Setup
+First, download the models from the link provided to reviewers:
+ - `models-to-share/regional-models` should contains the fit and bootstrap objects for left and right regional trajectories
+ - `models-to-share/asymmetry-models` should contain the fit and bootstrap objects for the asymmetry trajectories
+
+
 # Contents
- - `models-to-share/regional-models` contains the fit and bootstrap objects for left and right regional trajectories
- - `models-to-share/asymmetry-models` contains the fit and bootstrap objects for the asymmetry trajectories
  - `supplementary-tables` contains multiple tables, including:
       - `milestones.csv`: Milestones of left/right regional brain development
       - `bootstrap.milestones.csv`: Boostrapped confidence intervals around milestones of left/right regional brain development
