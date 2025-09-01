@@ -72,6 +72,7 @@ install.packages(c("gamlss", "ggplot2", "dplyr", "paletteer", "tidyr"))
 # Citation
 If you use this repository, please cite the following preprint:
 
-Dorfschmidt et al. (2025). Title of the preprint [bioRxiv link if available]
+Dorfschmidt, L., White, S., Gardner, M., ... Bethlehem, R. A. I., Seidlitz*, J., & Alexander-Bloch*, A. (2025). Charting structural brain asymmetry across the human lifespan. bioRxiv, 2025.07.21.665924. https://doi.org/10.1101/2025.07.21.665924
 
+* equal contributions
 
