@@ -1,3 +1,7 @@
 RDS/*
 OUT/*
 *.png
+
+# Purged, do not track
+models-to-share/asymmetry-models/
+models-to-share/regional-models/
